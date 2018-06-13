@@ -10,7 +10,7 @@ script:
   - python --version
   - sudo pip install awscli
   - hugo
-  - aws s3 sync --delete public/ s3://honeymoon-on-the-road/
+  - aws s3 sync --delete public/ s3://honeymoon-on-the-road/ --acl public-read
 #  - mkdir ~/.aws
 #  - echo "[preview]" > ~/.aws/config
 #  - echo "cloudfront = true" >> ~/.aws/config
