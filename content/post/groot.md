@@ -1,8 +1,8 @@
 ---
 date: 2018-06-13T19:00:59+02:00
-description: "Notre mascotte"
+description: "Groot"
 featured_image: '/images/groot_optimised.png'
-title: "La carte"
+title: "Notre mascotte"
 ---
 
 
