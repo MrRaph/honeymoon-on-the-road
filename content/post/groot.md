@@ -1,7 +1,7 @@
 ---
 date: 2018-06-13T19:00:59+02:00
 description: "Notre mascotte
-featured_image: '/images/groot.png'
+featured_image: '/images/groot_optimised.png'
 title: "La carte"
 ---
 
@@ -14,4 +14,4 @@ Il nous accompagnera pendant nos presque quatre semaines sur la route et vous fe
 
 Ah oui, Groot, c'est lui :
 
-![Groot](/images/groot.png)
+![Groot](/images/groot_optimised.png)
