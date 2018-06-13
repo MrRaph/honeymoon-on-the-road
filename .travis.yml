@@ -11,10 +11,10 @@ script:
   - sudo pip install awscli
   - hugo
   - aws s3 sync --delete public/ s3://honeymoon-on-the-road/ --acl public-read
-#  - mkdir ~/.aws
-#  - echo "[preview]" > ~/.aws/config
-#  - echo "cloudfront = true" >> ~/.aws/config
-#  - aws cloudfront create-invalidation --distribution-id TOTO --paths "/*"
+  - mkdir ~/.aws
+  - echo "[preview]" > ~/.aws/config
+  - echo "cloudfront = true" >> ~/.aws/config
+  - aws cloudfront create-invalidation --distribution-id ECZZSHTS6GEXC --paths "/*"
 notifications:
     email:
         on_failure: always
