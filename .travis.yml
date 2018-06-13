@@ -1,0 +1,20 @@
+# safelist
+branches:
+  only:
+  - master
+  - stable
+
+language: go
+install: go get -v github.com/spf13/hugo
+script:
+  - python --version
+  - sudo pip install awscli
+  - hugo
+  - aws s3 sync --delete public/ s3://honeymoon-on-the-road/
+#  - mkdir ~/.aws
+#  - echo "[preview]" > ~/.aws/config
+#  - echo "cloudfront = true" >> ~/.aws/config
+#  - aws cloudfront create-invalidation --distribution-id TOTO --paths "/*"
+notifications:
+    email:
+        on_failure: always
