@@ -1,0 +1,30 @@
+<div>
+  <p style="margin-left: 8%;" id="your-clock"></p>
+</div>
+
+<script type="text/javascript">
+  var clock;
+
+  $(document).ready(function() {
+
+    // Grab the current date
+    var currentDate = new Date();
+
+    // Set some date in the future. In this case, it's always Jan 1
+    var futureDate  = new Date('2018-06-19T03:24:00');
+
+    // Calculate the difference in seconds between the future and current date
+    var diff = Math.trunc(futureDate.getTime() / 1000 - currentDate.getTime() / 1000);
+
+    if (diff > 0) {
+      // Instantiate a coutdown FlipClock
+      clock = $('#your-clock').FlipClock(diff, {
+        clockFace: 'DailyCounter',
+        language: "french",
+        countdown: true,
+        showSeconds: false
+      });
+      clock.start();
+    }
+  });
+</script>
