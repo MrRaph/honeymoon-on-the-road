@@ -3,7 +3,7 @@ date: 2018-06-13T19:00:59+02:00
 title: "Be ready ..."
 description: "Groot se met au vert !"
 featured_image: '/images/groot_se-met-au-vert.jpeg'
-draft = true
+draft: true
 ---
 
 
