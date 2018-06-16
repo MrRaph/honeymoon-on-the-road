@@ -45,10 +45,26 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
-    <link href="/assets/css/flipclock.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/clock/foundation.css">
+    <link rel="stylesheet" href="/assets/css/clock/font-awesome.css">
+    <link rel="stylesheet" href="/assets/css/clock/flipclock.css">
+    <link rel="stylesheet" href="/assets/css/clock/app.css">
 
     <script src="/assets/js/libs/jquery.js"></script>
     <script src="/assets/js/flipclock/flipclock.min.js"></script>
+
+    <style>
+      .pv6 {
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+      html {
+        text-align: justify;
+      }
+      article {
+        padding: 5%;
+      }
+    </style>
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">

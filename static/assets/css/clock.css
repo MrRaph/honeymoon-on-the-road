@@ -1,0 +1,13 @@
+.clock {
+    position: relative !important;
+    padding-top: 0px;
+    margin-left: -194px;
+    height:100px;
+    width: 800px;
+    zoom: .9;
+    transform: scale(.54);
+    -ms-transform: scale(.54); /* IE 9 */
+    -webkit-transform: scale(.54); /* Safari and Chrome */
+    -o-transform: scale(.54); /* Opera */
+    -moz-transform: scale(.54); /* Firefox */
+}
