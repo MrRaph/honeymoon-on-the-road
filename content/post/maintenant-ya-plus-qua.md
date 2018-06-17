@@ -1,5 +1,5 @@
 ---
-date: 2018-06-13T19:00:59+02:00
+date: 2018-06-16T20:45:59+02:00
 title: "Maintenant y’a plus qu’à!"
 description: ""
 featured_image: '/images/maintenant-ya-plus-qua.jpeg'
