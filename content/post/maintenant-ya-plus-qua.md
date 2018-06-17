@@ -9,4 +9,6 @@ A 34h du départ tout est fin prêt! Les valises sont bouclées (ou presque), no
 
 ￼
 
-![Groot](/images/maintenant-ya-plus-qua.jpeg)
+![Groot](/images/maintenant-ya-plus-qua-1.jpeg)
+
+![Groot](/images/maintenant-ya-plus-qua-2.jpeg)
