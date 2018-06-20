@@ -70,5 +70,5 @@ Même Groot n'a pas pu résister à la tentation de chaparder du pop-corn, il fa
 
 Le petit coquin n'a pas non plus résisté à la Deep Dish Pizza, une spécialité de Chicago. Il s'agit d'une pizza à l'envers et plutôt épaisse dans un moule. Le formage est au fond, le pepperoni par dessus et le tout recouvert par la sauce tomate. 
 
-Est-ce une pizza ? Est-ce une tarte à la pizza ? Visiblement le débat est ouverts entre les Chicagoans et le reste du monde. Pour moi, c'est une tarte, mais ne le leur dites pas ;-)
+Est-ce une pizza ? Est-ce une tarte à la pizza ? Visiblement le débat est ouvert entre les Chicagoans et le reste du monde. Pour moi, c'est une tarte, mais ne le leur dites pas ;-)
 
