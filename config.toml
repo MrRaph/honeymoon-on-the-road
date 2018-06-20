@@ -7,7 +7,7 @@ theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 3
+Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
