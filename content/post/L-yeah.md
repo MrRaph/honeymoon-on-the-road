@@ -18,7 +18,7 @@ Une fois les bagages laissées aux bon soins d'AviaPartner et les contrôles de 
 
 Après une grosse heure de vol, nous sommes arrivés à Londres Heathrow et avons appris que notre long courrier aurait 2 heures de retard. Nous avons donc exploré le terminal 3 d'Heathrow mais finalement le vol a été un petit moins retardé que prévu ! Je vous fait cadeau des 8h30 de vol que nous avons passés à regarder des films et regarder la banquise du Groenland par le hublot. 
 
-L'arrivé à Chicago a été plus simple et rapide, grâce notamment aux bornes APC pour préparer le contrôle de l'immigration. Nous avons mis moins de temps à sortir de l'aéroport, contrôles et récupération des bagages compris, que pour récupérer la valise !
+L'arrivé à Chicago a été plus simple et rapide, grâce notamment aux bornes APC pour préparer le contrôle de l'immigration. Nous avons mis moins de temps à sortir de l'aéroport, contrôles et récupération des bagages compris, que pour récupérer la voiture !
 
 Dès que nous avons eu la voiture, nous avons mis le cap sur Chicago ! Groot a insisté pour faire une auto-photo sur le capot de la voiture au pied des buildings. 
 
