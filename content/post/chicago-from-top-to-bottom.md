@@ -37,7 +37,7 @@ Nous arrivons au Millenium Park, dans lequel trônent de nombreuses œuvres d'ar
 
 ![LYS](/images/06/20/06-2.jpeg)
 
-Et comme on est des fois, on combat la chaleur et l'humidité par ... Plus d'humidité ! :D
+Et comme on est des fous, on combat la chaleur et l'humidité par ... Plus d'humidité ! :D
 
 ![LYS](/images/06/20/07.jpeg)
 
