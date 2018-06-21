@@ -9,6 +9,7 @@ DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 10
 googleAnalytics = ""
+disqusShortname = "honeymoon-on-the-road"
 enableRobotsTXT = true
 
 [sitemap]
