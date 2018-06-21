@@ -11,7 +11,7 @@ Autrefois elle servait à accueillir les bateaux de marchandises qui circulaient
 
 ![Chicago](/images/06/20/13.jpeg)
 
-La vue est splendide mais nous sommes quand même bien au Nord et le vent de fait très piquant une fois la nuit tombée !
+La vue est splendide mais nous sommes quand même bien au Nord et le vent se fait très piquant une fois la nuit tombée !
 
 ![Chicago](/images/06/20/14.jpeg)
 
@@ -19,7 +19,7 @@ La jetée offre une vue imprenable sur la ville et le Loop.
 
 ![Chicago](/images/06/20/15.jpeg)
 
-Un feu d'artifice est tiré tous les mercredis et samedi soirs. Nous avons été chanceux car par un pur hasard nous y sommes allés un mercredi !!
+Un feu d'artifice est tiré tous les mercredi et samedi soirs. Nous avons été chanceux car par un pur hasard nous y sommes allés un mercredi !!
 
 > You just gotta ignite the light
 > And let it shine
@@ -31,6 +31,7 @@ Un feu d'artifice est tiré tous les mercredis et samedi soirs. Nous avons été
 > Make 'em go "Oh, oh, oh!"
 > As you shoot across the sky-y-y
 
+ 
 
 ![Chicago](/images/06/20/16.jpeg)
 
