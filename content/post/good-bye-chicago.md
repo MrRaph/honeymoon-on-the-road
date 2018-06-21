@@ -37,3 +37,5 @@ Un feu d'artifice est tiré tous les mercredis et samedi soirs. Nous avons été
 Je dois avouer que je suis assez fier de cette photo ! :-D
 
 De plus elle montre comme la ville est fleurie. Je ne crois pas en avoir parlé mais il y a de la verdure partout dans Chicago, que ce soit dans les nombreux parcs ou dans les rues on trouve des massifs de fleurs impressionnants de partout en ville !
+
+Nous allons maintenant laisser Chicago derrière nous et entamer notre périple !
