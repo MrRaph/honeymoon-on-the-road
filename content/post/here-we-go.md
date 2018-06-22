@@ -69,7 +69,7 @@ On se croirait pas dans Walking Dead là ? Déjà que ma femme voyait des zombie
 
 ![Images 17](/images/06/21/17.jpeg)
 
-Ahh les voilà enfin lui ! Et oui, Groot s’est planqué toute la journée car il a eu peur des orages et des tornades. Il a sorti le bout de son nez juste quand on s’est mis à table dans un diner. Le coquin ne perd pas le nord !
+Ahh le voilà enfin lui ! Et oui, Groot s’est planqué toute la journée car il a eu peur des orages et des tornades. Il a sorti le bout de son nez juste quand on s’est mis à table dans un diner. Le coquin ne perd pas le nord !
 
 > Et mais attends, t’as parlé de tornades ?
 
