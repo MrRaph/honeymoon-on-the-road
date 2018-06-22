@@ -19,7 +19,7 @@ Notre premier arrêt a été au garage d’Al Capone à Cicero, tout près de Ch
 
 ![Images 3](/images/06/21/3.jpeg)
 
-En poussant la porte de ce lieu, nous avons rencontré les propriétaires, des gens très sympathiques qui nous ont fait visiter le garage set nous ont présentés les voitures sur lesquelles ils sont en train de travailler. Ah oui, ils font dans la restauration de vieilles automobiles. (Il se dit que la dame serait la petite fille d’Al Capone ! Nous n’en avons pas eu confirmation :p)
+En poussant la porte de ce lieu, nous avons rencontré les propriétaires, des gens très sympathiques qui nous ont fait visiter le garage et nous ont présentés les voitures sur lesquelles ils sont en train de travailler. Ah oui, ils font dans la restauration de vieilles automobiles. (Il se dit que la dame serait la petite fille d’Al Capone ! Nous n’en avons pas eu confirmation :p)
 
 ![Images 4-1](/images/06/21/4-1.jpeg)
 
