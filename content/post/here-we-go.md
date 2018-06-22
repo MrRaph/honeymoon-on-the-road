@@ -9,7 +9,7 @@ Aujourd’hui nous avons entamé ce pourquoi nous sommes venus aux Etats-Unis, l
 
 Nous partons de Chicago aux alentours de 10h du matin.
 
-![Images 1](/images/06/21/1.jpeg)
+![Images 1](/images/06/21/1.png)
 
 De nos jours, des programmes existent pour lui redonner une seconde vie sous le nom « Historic Route 66 ».
 
