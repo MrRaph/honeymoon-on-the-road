@@ -2,8 +2,7 @@
 date: 2018-06-22T17:00:59+02:00
 title: "Une nouvelle carte"
 description: "Merci Pétaire !"
-featured_image: '/images/groot_se-met-au-vert.jpeg'
-
+featured_image: '/images/old-map.jpeg'
 ---
 
 Cette carte générée à partir de la localisation incluses dans les photos que je poste sur le blog !
