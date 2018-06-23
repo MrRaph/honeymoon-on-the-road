@@ -100,12 +100,17 @@ Bon on est passés par l’Interstate histoire de pouvoir dormir cette nuit. Mai
 Bref, je n’ai plus de droit de trimballer Groot, c’est la femme qui s’en charge désormais ! :P
 
 ![Images 20](/images/06/22/20.jpeg)
-![Images 21](/images/06/22/21.jpeg)
 
 Ça c’est pour le « Wall of shame » !
+
+
+![Images 21](/images/06/22/21.jpeg)
+
+Ce soir nous passons notre première nuit dans un motel !
 
 Pour conclure, nous bouclons notre plus grosse journée sur la route avec plus de 450 miles parcourus, environ 724 kilomètres, et un plein englouti !
 
 Demain sera une autre grosse journée qui nous fera rouler dans 3 états, Missouri, Kansas et Oklahoma. Nous seront vigilants sur les conditions météos car de violents orages sont annoncés en Oklahoma et des tornades sur la fin du Missouri. 
+
 
 Stay tuned !
