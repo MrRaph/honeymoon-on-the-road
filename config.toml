@@ -8,7 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 10
-googleAnalytics = ""
+googleAnalytics = "UA-121183650-1"
 disqusShortname = "honeymoon-on-the-road"
 enableRobotsTXT = true
 
