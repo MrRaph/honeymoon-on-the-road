@@ -35,4 +35,6 @@ Ah oui, ici les églises font de la publicité directement dans la rue.
 
 Nous sommes arrivés à Oklahoma City aux alentours de 13h30 et sommes allés directement dans un Outlet. Ce sont des zones commerciales où les marques soldent très fortement leurs produits. Nous avons donc fait de bonnes affaires en achetant, par exemple, des jeans Levis à 33€ ! Cela nous a occupé une bonne partie de l’après-midi puis nous nous sommes reposés à l’hôtel.
 
+Oklahoma City est la capitale de l'Oklahoma et compte 600 000 habitants, l'état complet en compte 3 800 000, Chicago a côté à 2 600 000 habitants ! La ville a été créée en 1889 sur un territoire indiens. En 1999 la banlieue de la vielle a été ravagée par une éruption de tornades qui a compté l'une des plus violentes tornades enregistrées aux États-Unis - classée F5 sur l'[échelle de Fujita](https://fr.m.wikipedia.org/wiki/Échelle_de_Fujita) ! - qui a causée plus d'un milliards de dollars de dégâts !
+
 Voici qui boucle notre quatrième journée sur la route. Demain sera une longue journée, nous traverserons le reste de l’Oklahoma et arriverons à Amarillo dans le Texas !
