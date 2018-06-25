@@ -63,6 +63,9 @@ Quelques miles plus loin se trouve la localité de Fanning, il s’agit d’un b
 Le bureau de poste est reconnaissable à son gigantesque Rocking-chair qui le jouxte, le deuxième plus grand du monde ! La chaise mesure 42 pieds, soit presque 13 mètres de haut !
 
 ![Images 12](/images/06/22/12.jpeg)
+
+  
+
 ![Images 13](/images/06/22/13.jpeg)
 
 Plus loin nous sommes tombés par hasard sur un ancien relais dans lequel les voyageurs échangeaient leurs mules fatiguées contre des mules toutes fraîches. Ce lieu est agrémenté de sculptures kitchs mais fun pour attirer le chaland. 
@@ -73,7 +76,7 @@ En nous rapprochant de Springfield nous avons découvert un lieu complètement h
 
 ![Images 15](/images/06/22/15.jpeg)
 
-  
+    
 
 ![Images 16](/images/06/22/16.jpeg)
 
@@ -97,7 +100,7 @@ Comme dit le proverbe, quand on a pas une bonne tête, mieux vaut avoir de bonne
 
 Bon on est passés par l’Interstate histoire de pouvoir dormir cette nuit. Mais nous sommes arrivés à Springfield à plus de 23h, adieu la soirée tranquille et le repos. 
 
-Bref, je n’ai plus de droit de trimballer Groot, c’est la femme qui s’en charge désormais ! :P
+Bref, je n’ai plus de droit de trimballer Groot, c’est ma femme qui s’en charge désormais ! :P
 
 ![Images 20](/images/06/22/20.jpeg)
 
