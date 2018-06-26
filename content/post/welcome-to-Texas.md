@@ -105,6 +105,6 @@ Ce soir nous allons dîner dans une institution de la Route 66, le « Big Texan
 
 Ma femme est plutôt déçue, elle croyait croiser Walker Texas Ranger dans le Texas mais nous ne l’avons pas vu ... Peut être demain !
 
-![Walker](https://en.m.wikipedia.org/wiki/Walker,_Texas_Ranger#/media/File%3AWalkerTitle.jpg)
+![Walker](/images/06/25/walker.jpeg)
 
 Demain nous aurons une petite journée sur la route en direction de Tucumcari dans le Nouveau Mexique. Nous retirerons une heure sur nos montres et aurons donc une journée de 25 heures !
