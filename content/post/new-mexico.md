@@ -101,9 +101,9 @@ Nous sommes arrivés à l’hôtel DaysInn de Tucumcari à 13h et en sommes trè
 
 Nous sommes donc allés en face à « Desert Inn » ou l’accueil a été bien meilleur, les chambres de qualité et la piscine en plus !
 
-Le trajet initial devait compter 172 kilomètres mais avec notre détour par la piste nous avons dû en faire 200 environs ! Demain notre destination est Santa Fe, la capitale du Nouveau Mexique !
+Le trajet initial devait compter 172 kilomètres mais avec notre détour par la piste nous avons dû en faire 200 environs ! Demain notre destination est Santa Fe, la capitale du Nouveau Mexique ! Le surnom de l’état du Nouveau Mexique est « Land of Enchantment » - La terre de l’enchantement - il compte 2 millions d’habitants.
 
-Le surnom de l’état du Nouveau Mexique est « Land of Enchantment » - La terre de l’enchantement - il compte 2 millions d’habitants.
+Point important, la femme a bronzé !! Elle en est très fière, n'oubliez pas de le lui faire remarquer à notre retour ! :-)
 
 _@JB: La Nouvelle Fajita du Nouveau Mexique c’est pour ce soir ! :-)_
 
