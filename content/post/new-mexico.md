@@ -38,7 +38,8 @@ Une fois l’étonnement passé, nous avons eu tout le temps que l’on souhaita
 
 {{< youtube tokUhSJl1vM >}}
 
-On s'est filmés en roulant tellement on trouvais surprenant et beau !
+
+On s'est filmés en roulant tellement on trouvait surprenant et beau !
 
 ![Images 7](/images/06/26/7.jpeg)
 
