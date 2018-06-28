@@ -13,7 +13,7 @@ En sortant de Tucumcari nous sommes tombés sur une vieille station service avec
 
 ![Images 2](/images/06/27/2.jpeg)
 
-Nous avons toutefois pus admirer le paysage pendant la route ! Je profite de ne pas avoir grand chose à dire sur la route pour préciser que le Nouveau Mexique est peuplé depuis très longtemps. Les traces les plus anciennes retrouvées jusque là datent d’il y a 65 000 ans.
+Nous avons toutefois pu admirer le paysage pendant la route ! Je profite de ne pas avoir grand chose à dire sur la route pour préciser que le Nouveau Mexique est peuplé depuis très longtemps. Les traces les plus anciennes retrouvées jusque là datent d’il y a 65 000 ans.
 
 ![Images 3](/images/06/27/3.jpeg)
 
