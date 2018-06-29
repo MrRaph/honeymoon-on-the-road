@@ -100,7 +100,7 @@ Pam ! Souvenirs #BrBa !
 
 Et voilà une nouvelle journée se termine sur la route, au bord de la piscine. Ça commence à devenir une habitude ! Mais bon c’est aussi les vacances après tout ! 
 
-On a pas vraiment compté les kilomètres aujourd’hui mais on ne doit pas être loins de 250, à la louche !
+On a pas vraiment compté les kilomètres aujourd’hui mais on ne doit pas être loins de 250, à la louche ! Par contre nous avons parcourus un total de 2200 miles soit 3520 kilomètres ! 2200 miles c'est presque le total de miles que compte la Route 66 !
 
 Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ». De plus comme l'état de l'Arizona ne respecte pas le changement heure d'été et heure d'hiver- pour sa très grande partie en tout cas - nous perdrons de nouveau une heure demain ! Nous aurons donc 9h de décalage avec la France.
 
