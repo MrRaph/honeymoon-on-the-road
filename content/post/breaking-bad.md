@@ -25,7 +25,7 @@ Sans transition nous voilà arrivés à Albuquerque, le premier lieu que nous tr
 
 ![Images 4](/images/06/28/4.jpeg)
 
-En montant sur les hauteurs huppées de la ville nous dénichons la maison des Schrader. Le quoi est vraiment tranquille, nous ne nous sommes pas attardés.
+En montant sur les hauteurs huppées de la ville nous dénichons la maison des Schrader. Le coin est vraiment tranquille, nous ne nous sommes pas attardés.
 
 ![Images 5](/images/06/28/5.jpeg)
 
@@ -41,7 +41,7 @@ Enfin, nous avions faim et sommes naturellement allé dans un restaurant « Twi
 
 ![Images 21](/images/06/28/21.jpeg)
 
-Petit passage devant le « Crossroads Motel ». C’est celui devant lequel Hank amène Walter Jr pour lui apprendre que la dégoûte c’est mal !
+Petit passage devant le « Crossroads Motel ». C’est celui devant lequel Hank amène Walter Jr pour lui apprendre que la drogue c’est mal !
 (Et paf une photo de 10 Mo, désolé pour vos forfaits data ...)
 
 ![Images 8](/images/06/28/8.jpeg)
@@ -76,7 +76,7 @@ Le canyon est fermé au loin par une impressionnante mesa. On voit un peu mal la
 
 ![Images 16](/images/06/28/16.jpeg)
 
-Sur le côté, une ouverture donnait le canyon voisin. C’est tout près de cette ouverture que se trouvait le « RV » - camping-car - de Walt et Jesse dans le premier épisode.
+Sur le côté, une ouverture donnait sur le canyon voisin. C’est tout près de cette ouverture que se trouvait le « RV » - camping-car - de Walt et Jesse dans le premier épisode.
 
 ![Images 17](/images/06/28/17.jpeg)
 
@@ -92,7 +92,7 @@ J’ajoute quelques photos de ce canyon magnifique !
 
 ![Images 19](/images/06/28/19.jpeg)
 
-Aller encore une ! Après on s’est dépêchés de rentrer dans la voiture, mettre la climatisation et boire de l’eau bien fraîche. On avait la gorge tellement sèche ... Ah oui, on a acheté une glacière dans l’Illinois ! Elle est bien pratique pour stocker des bouteilles d’eau... Et de Dr Pepper ... Bien au frai pour ce genre de cas !
+Aller encore une ! Après on s’est dépêchés de rentrer dans la voiture, mettre la climatisation et boire de l’eau bien fraîche. On avait la gorge tellement sèche ... Ah oui, on a acheté une glacière dans l’Illinois ! Elle est bien pratique pour stocker des bouteilles d’eau... Et le Dr Pepper ... Bien au frais pour ce genre de cas !
 
 ![Images 20](/images/06/28/20.jpeg)
 
@@ -104,6 +104,6 @@ On a pas vraiment compté les kilomètres aujourd’hui mais on ne doit pas êtr
 
 Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ». De plus comme l'état de l'Arizona ne respecte pas le changement heure d'été et heure d'hiver- pour sa très grande partie en tout cas - nous perdrons de nouveau une heure demain ! Nous aurons donc 9h de décalage avec la France.
 
-Seuls la Nation Navajo utilise le changement heure d'été, heure d'hiver notamment car leur territoire est à cheval sur le Nouveau Mexique, l'Arizona et l'Utah, ils conserve ainsi tous la même heure. L'état a été exempté de suivre ces changements d'heure à cause de la très grande chaleur qui y règne, les gens ont préférés avoir plus d'heures fraîches sans soleil ! [Plus d'informations ici.](https://www.timeanddate.com/time/us/arizona-no-dst.html)
+Seule la Nation Navajo utilise le changement heure d'été, heure d'hiver notamment car leur territoire est à cheval sur le Nouveau Mexique, l'Arizona et l'Utah, ils conserve ainsi tous la même heure. L'état a été exempté de suivre ces changements d'heure à cause de la très grande chaleur qui y règne, les gens ont préférés avoir plus d'heures fraîches sans soleil ! [Plus d'informations ici.](https://www.timeanddate.com/time/us/arizona-no-dst.html)
 
 Si nous avions fait la route en hiver, nous aurions perdu cette heure en Californie !
