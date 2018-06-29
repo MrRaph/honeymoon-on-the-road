@@ -102,8 +102,8 @@ Et voilà une nouvelle journée se termine sur la route, au bord de la piscine. 
 
 On a pas vraiment compté les kilomètres aujourd’hui mais on ne doit pas être loins de 250, à la louche !
 
-Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ». De plus comme l'état de l'Arizona ne respecte pas le changement - pour sa très grande partie en tout cas - nous perdrons de nouveau une heure demain ! Nous aurons donc 9h de décalage avec la France.
+Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ». De plus comme l'état de l'Arizona ne respecte pas le changement heure d'été et heure d'hiver- pour sa très grande partie en tout cas - nous perdrons de nouveau une heure demain ! Nous aurons donc 9h de décalage avec la France.
 
-Seuls le peuple Navajo utilise le changement heure d'été, heure d'hiver. [Plus d'informations ici.](https://www.timeanddate.com/time/us/arizona-no-dst.html)
+Seuls la Nation Navajo utilise le changement heure d'été, heure d'hiver notamment car leur territoire est à cheval sur le Nouveau Mexique, l'Arizona et l'Utah, ils conserve ainsi tous la même heure. L'état a été exempté de suivre ces changements d'heure à cause de la très grande chaleur qui y règne, les gens ont préférés avoir plus d'heures fraîches sans soleil ! [Plus d'informations ici.](https://www.timeanddate.com/time/us/arizona-no-dst.html)
 
 Si nous avions fait la route en hiver, nous aurions perdu cette heure en Californie !
