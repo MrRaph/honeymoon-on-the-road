@@ -102,4 +102,6 @@ Et voilà une nouvelle journée se termine sur la route, au bord de la piscine. 
 
 On a pas vraiment compté les kilomètres aujourd’hui mais on ne doit pas être loins de 250, à la louche !
 
-Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ».
+Demain direction Holbrook dans l’Arizona ! Le nom de cet état viendrait de l’Espagnol « zona arida ». De plus comme l'état de l'Arizona ne respecte pas le changement - pour sa très grande partie en tout cas - nous perdrons de nouveau une heure demain ! Nous aurons donc 9h de décalage avec la France.
+
+Si nous avions fait la route en hivers, nous aurions perdu cette heure en Californie !
