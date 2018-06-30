@@ -2,7 +2,7 @@
 date: 2018-06-29T21:00:59-09:00
 title: "Petrified Forest"
 description: "Des couleurs et des arbres fossilisés"
-featured_image: '/images/06/27/5.jpeg'
+featured_image: '/images/06/29/5.jpeg'
 ---
 
 Aujourd’hui nous sommes partis plutôt tard aux alentours de 9h30 MST - Mountain Standard Time, l’heure du Nouveau Mexique - car nous n’étions pas d’accord avec l’itinéraire proposé par Google. Il nous faisait passer par la pampa alors que la Route 66 est l’« Interstate » 40 sur une bonne partie du tracé. Nous avons donc pris l’« Interstate » et sommes sortis sur les quelques tronçons de Route 66 qu’il reste entre Albuquerque et Holbrook. 
