@@ -15,7 +15,7 @@ Nous avons donc fait l’impasse sur Meteor Crater. Il nous a donc fallut trouve
 
 ![Images 1](/images/06/30/1.jpeg)
 
-Mais nous y reviendrons ! Sur la fin de la route du jour, se trouvait « Twin Arrows » il s’agit d’un village abandonné dont le « trading post » arborait fier cette enseigne en forme de double flèches plantées dans le sol.
+Mais nous y reviendrons ! Sur la fin de la route du jour, se trouvait « Twin Arrows » il s’agit d’un village abandonné dont le « trading post » arborait fièrement cette enseigne en forme de double flèches plantées dans le sol.
 
 Les « trading posts » étaient des lieux d’échanges commerciaux entre les colons et les autochtones et le commerce de la fourrure. De nos jours ils sont en général transformés en boutiques de souvenirs. 
 
