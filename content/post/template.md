@@ -1,5 +1,5 @@
 ---
-date: 2018-06-13T19:00:59-07:00
+date: 2018-07-01T19:00:59-09:00
 title: "Be ready ..."
 description: "Groot se met au vert !"
 featured_image: '/images/groot_se-met-au-vert.jpeg'
