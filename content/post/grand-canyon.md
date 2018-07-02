@@ -85,7 +85,7 @@ Il y a 1,2 milliard d’années, plusieurs milliers de mètres d’épaisseur de
 
 ![Images 16](/images/07/01/16.jpeg)
 
-Il y a environs 725 millions d’années, ces roches furent soulevées pour devenir une chaîne de montagnes. L’érosion a alors fait son œuvre. La région fut de nouveau envahie par la mer. Il y a entre 550 et 250 millions d'années, ceci a conduit à l’ajout de nouvelles couches de grès de calcaire et de [shale](https://fr.m.wikipedia.org/wiki/Shale).
+Il y a environs 725 millions d’années, ces roches furent soulevées pour devenir une chaîne de montagnes. L’érosion a alors fait son œuvre. La région fut de nouveau envahie par la mer. Il y a entre 550 et 250 millions d'années, ceci a conduit à l’ajout de nouvelles couches de grès, de calcaire et de [shale](https://fr.m.wikipedia.org/wiki/Shale).
 
 ![Images 17](/images/07/01/17.jpeg)
 
@@ -142,3 +142,7 @@ Oui, les trottoirs avec des étoiles dedans et les collines avec des lettres c�
 ![Images 28](/images/07/01/28.jpeg)
 
 On se quitte sur cette dernière photo ! Bonne journée à vous, bonne nuit à nous !
+
+![Images 29](/images/07/01/29.jpeg)
+
+Bonus, une Poussine en pleine contemplation !
