@@ -19,7 +19,7 @@ Ce tronçons nous a tout d'abord menés à Seligman, une petite bourgade très a
 
 ![Images 3](/images/07/02/3.jpeg)
 
-Le travail pour rendre ces bâtiments « authentiques » est vraiment sympa ! Cela rend très biens, on se sent comme projetés plusieurs décennies en arrière.
+Le travail pour rendre ces bâtiments « authentiques » est vraiment sympa ! Cela rend très bien, on se sent comme projetés plusieurs décennies en arrière.
 
 ![Images 4](/images/07/02/4.jpeg)
 
@@ -61,7 +61,7 @@ Oatman était une ville de mineurs. Sa population est montée à 3500 habitants 
 
 ![Images 13](/images/07/02/13.jpeg)
 
-Maintenant la ville est comme un décore de cinéma, on se croirait au début du XXème siècle. Les ânes se baladent en liberté dans la rue, les bâtiments baignent dans leur jus, mais la modernité a fait son œuvre.  Ainsi l’artère principale en envahie de véhicules récents ce qui fait un peu cloche sur les photos ...
+Maintenant la ville est comme un décor de cinéma, on se croirait au début du XXème siècle. Les ânes se baladent en liberté dans la rue, les bâtiments baignent dans leur jus, mais la modernité a fait son œuvre.  Ainsi l’artère principale est envahie de véhicules récents ce qui fait un peu cloche sur les photos ...
 
 Clark Gable passât sa lune de miel avec Carole Lombard dans l’hôtel de la ville, bâti en 1902. 
 
