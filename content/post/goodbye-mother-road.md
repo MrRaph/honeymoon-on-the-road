@@ -23,7 +23,7 @@ Le travail pour rendre ces bâtiments « authentiques » est vraiment sympa ! Ce
 
 ![Images 4](/images/07/02/4.jpeg)
 
-La route continue, traversant plusieurs petite localités. Plus on avance, moins on croise d'arbustes, plus le paysage devient blanc tellement les herbes sont jaunes claires.
+La route continue, traversant plusieurs petites localités. Plus on avance, moins on croise d'arbustes, plus le paysage devient blanc tellement les herbes sont jaunes claires.
 
 ![Images 5](/images/07/02/5.jpeg)
 
@@ -45,7 +45,7 @@ Cette route mène donc à Oatman, en passant par le « Sitgreaves Pass », le 
 
 ![Images 9](/images/07/02/9.jpeg)
 
-Les paysages sur cette route à travers la montagne et le désert, dans le « Mohave », étaient époustouflants. Hier on se demandait si après le tour en hélicoptère on pourrait encore s’émerveiller devant les paysages, et bien oui !
+Les paysages sur cette route à travers la montagne et le désert, dans le comté de « Mohave », étaient époustouflants. Hier on se demandait si après le tour en hélicoptère on pourrait encore s’émerveiller devant les paysages, et bien oui !
 
 ![Images 10](/images/07/02/10.jpeg)
 
