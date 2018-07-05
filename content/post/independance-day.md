@@ -6,7 +6,9 @@ featured_image: '/images/07/04/7.jpeg'
 ---
 
 
-Ce matin nous quittons Vegas sur les coups de 10h pour courir le 4h30 de route qui nous séparent de Bakersfield. Bakersfield n'est qu'une ville étape pour nous, pas grand chose à faire là-bas. 
+Ce matin nous quittons Vegas sur les coups de 10h pour couvrir les 4h30 de route qui nous séparent de Bakersfield. Ce n'est qu'une ville étape pour nous, pas grand chose à faire là-bas. 
+
+Bakersfield est la ville d'origine des membres du groupe de musique Korn pour ceux qui connaissent...
 
 Nous avons donc la chance d'y passer le jour de la fête de l'indépendance des USA. Cela nous fera une activité sympa, mais tout d'abord, la route !
 
@@ -26,7 +28,7 @@ Nous réussissons à nous faufiler et à trouver une place dans l’herbe.
 
 ![Images 4](/images/07/04/4.jpeg)
 
-Tchin ! C’est de la citronnade glacée ! En fait, la citronnade aura été la boisson phare de nos vacances ! En générale elle est très bonne, surtout quand on tombe sur des endroits où elle est faite maison !
+Tchin ! C’est de la citronnade glacée ! En fait, la citronnade aura été la boisson phare de nos vacances ! En général elle est très bonne, surtout quand on tombe sur des endroits où elle est faite maison !
 
 ![Images 5](/images/07/04/5.jpeg)
 
@@ -40,4 +42,4 @@ Bon, parlons un peu du 4 Juillet ! Il s’agit de la fête nationale des USA. Il
 
 Le 4 Juillet est devenu depuis l’« Independance Day », le jour de l’indépendance, la fête nationale des USA. Du coup, les américains, très patriotes, font vachement plus la fête que nous pour leur fête nationale. On aurait dit que toute la ville était dans ce parc. Bon après, il fallut que tout ce beau monde rentre chez soi et on amasse une bonne heure et demi à sortir du parking...
 
-Voilà qui clôt une nouvelle journée, de 450 kilomètres. Demain nous rallierons notre hôtel près du parc de Yosemite plus au nord, à 250 kilomètres de Bakersfield. 
+Voilà qui clôt une nouvelle journée, de 450 kilomètres. Demain nous rallierons notre hôtel près du parc de Yosemite plus au nord à 250 kilomètres de Bakersfield. 
