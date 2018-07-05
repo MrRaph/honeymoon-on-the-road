@@ -131,7 +131,7 @@ Cela sera également notre dernier tronçon de la Route 66 que nous parcourrons.
 
 Oh ! Un panorama !
 
-Je le répète peut-être mais les « National Parks » américains sont vraiment bien faits. Certes l'entrée est payante - 35$ par véhicule pour Grand Canyon - mais elle est valable 7 jours. D'autres part le cheminement est vraiment bien fait, on peut y circuler en voiture, on trouve de l'eau et des toilettes de partout et les explications sont très bien faites et intéressant !
+Je me répète peut-être mais les « National Parks » américains sont vraiment bien faits. Certes l'entrée est payante - 35$ par véhicule pour Grand Canyon - mais elle est valable 7 jours. D'autres part le cheminement est vraiment bien fait, on peut y circuler en voiture, on trouve de l'eau et des toilettes de partout et les explications sont très bien faites et intéressant !
 
 Chapeau pour ça, Oncle Sam !
 
