@@ -53,7 +53,7 @@ Le parc de Yosemite est très connu pour son « Half Dome », une montagne en 
 
 Oh ! Coucou toi !
 
-![Images 12](/images/07/07/16.jpeg)
+![Images 12](/images/07/06/12.jpeg)
 
 En fin d’après-midi nous sommes montés à « Glacier Point », un point en hauteur réputé pour l’observation des étoiles. 
 
