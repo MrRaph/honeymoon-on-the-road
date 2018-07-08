@@ -16,7 +16,7 @@ __ *Note :* Certaines des photos de cet article ont étés ajoutées contre mon 
 
 ![Images 3](/images/07/07/3.jpeg)
 
-Voici notre nouvelle monture, une Ford Fusion hybride, bien plus sympa à conduire que la Hundai mais nous y perdons de la place dans le coffre. Forcément, elle est hybride, faut bien ranger le piles quelque part et les ingénieurs de chez Ford ont trouvés ça malin de les mettre dans le coffre...
+Voici notre nouvelle monture, une Ford Fusion hybride, bien plus sympa à conduire que la Hundai mais nous y perdons de la place dans le coffre. Forcément, elle est hybride, faut bien ranger les piles quelque part et les ingénieurs de chez Ford ont trouvés ça malin de les mettre dans le coffre...
 
 ![Images 1](/images/07/07/1.jpeg)
 
