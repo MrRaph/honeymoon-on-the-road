@@ -38,7 +38,7 @@ Groot ne faisait pas vraiment le poids mais il s’est pris à rêver devant ses
 
 Celui-là couché sur le sol est mort il y a bien longtemps. Personne n’a pu lui donner un âge exact, il est estimé à plusieurs millier d’années. (Cet âge est celui de l’arbre quand il est mort, pas le temps depuis lequel il est par terre hein ! )
 
-Le « Fallen Monarch » serait tombé il y a 300 ans. La constitution et la resistance de séquoias géants fait qu’il a été aussi bien conservé jusqu’à maintenant. 
+Le « Fallen Monarch » serait tombé il y a 300 ans. La constitution et la resistance de séquoias géants font qu’il a été aussi bien conservé jusqu’à maintenant. 
 
 ![Images 6](/images/07/07/6.jpeg)
 
