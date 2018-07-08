@@ -50,11 +50,11 @@ Les séquoias géants poussent d’abord tout droit pendant des centaines d’an
 
 ![Images 8](/images/07/07/8.jpeg)
 
-Un séquoia géant à une écorce si épaisse - jusqu’à 61 centimètres d’épaisseur - qu’il peut résister à la très grand majorité des insectes, des maladies et même au feu. 
+Un séquoia géant à une écorce si épaisse - jusqu’à 61 centimètres d’épaisseur - qu’il peut résister à la très grande majorité des insectes, des maladies et même au feu. 
 
 ![Images 9](/images/07/07/9.jpeg)
 
-Ces colosses ne sont à la base que de toutes petites graines, seuls quelques unes d’entre elles deviendront à leur tour des géants. Une séquoia géant produit quelques 400 000 graines chaque année. 
+Ces colosses ne sont à la base que de toutes petites graines, seules quelques unes d’entre elles deviendront à leur tour des géants. Un séquoia géant produit quelques 400 000 graines chaque année. 
 
 Le séquoia géant croit tout au long de sa vie, c’est un des arbres qui croit le plus vite sur Terre. Ils comptent parmi les organismes vivants les plus vieux du monde.
 
@@ -62,7 +62,7 @@ Le séquoia géant croit tout au long de sa vie, c’est un des arbres qui croit
 
 Voici l’une des stars du bosquet, cet arbre s’appelle « Grizzly Giant ». Il est le plus vieux séquoia géant vivant du bosquet. De sa cime, 1900 à 2400 ans vous contemplent. 
 
-Il ne mesure pas moins de 64 mètres de haut, sa circonférence à la base est de 28 mètres, pont un volume total de 963 mètres cubes. C’est le deuxième arbre le plus gros du bosquet après le « Washington Tree », 1018 mètres cubes.
+Il ne mesure pas moins de 64 mètres de haut, sa circonférence à la base est de 28 mètres, pour un volume total de 963 mètres cubes. C’est le deuxième arbre le plus gros du bosquet après le « Washington Tree », 1018 mètres cubes.
 
 On estime que certains des arbres morts dans le bosquet auraient quelques 4000 ans. 
 
@@ -74,7 +74,7 @@ Groot s’est demandé si un jour il en imposerait autant que le « Grizzly Gia
 
 Cet endroit m’a particulièrement touché. (« M’a » car ma femme n’était toujours pas très bien et donc je suis allé seul voir « Grizzly Giant » pendant qu’elle se reposait en bas sur un banc !)
 
-On y voit un séquoia géant mature mort sur le sol, victime du feu. On y voit également plein de pousses de séquoias tout autour, peut être des graines qu’il a lui même dispersé. Un jour sans doute, l’une des ces pousses deviendra un géant à son tour. 
+On y voit un séquoia géant mature mort sur le sol, victime du feu. On y voit également plein de pousses de séquoias tout autour, peut être des graines qu’il a lui même dispersé. Un jour sans doute, l’une de ces pousses deviendra un géant à son tour. 
 
 ![Images 13](/images/07/07/13.jpeg)
 
@@ -86,7 +86,7 @@ Voici une pomme de séquoia géant, clairement, Groot ne faisait pas le poids à
 
 ![Images 15](/images/07/07/15.jpeg)
 
-Après nous être tout petits et humbles à côtés des géants, nous sommes partis à la recherche d’une clairière que ma moitié avait repérée hier en allant à « Glacier Point ». Nous l’avons retrouvé et en avons profité pour faire quelques photos. 
+Après nous être sentis tout petits et humbles à côtés des géants, nous sommes partis à la recherche d’une clairière que ma moitié avait repérée hier en allant à « Glacier Point ». Nous l’avons retrouvé et en avons profité pour faire quelques photos. 
 
 ![Images 16](/images/07/07/16.jpeg)
 
@@ -132,7 +132,7 @@ Pendant que je me suis monté, au pas de course, voir « Grizzly Giant », ma 
 
 Elle raconte :
 
->>> J’étais tranquillement en train de profiter du calme du bosquet (vu que tu m’avais abandonnée pour aller voir un gros narbre). Là je me suis dit tiens du devrais voir des petites choses bêtes ici. Puis le silence a été rompu par quelque bruits de brindilles. J’ai ouvert les yeux, levé le nez et derrière l’arbre qui était à terre j’ai vu une sorte de plumet noir et blanc remuer. Je pensais avoir à faire à un gros oiseau alors je me suis levée. C’est là que j’ai aperçu les oreilles de cette très jolie biche en train de brouter. Je me suis approchée tout doucement pour ne pas l’effrayer. Elle m’a regardé je l’ai regardée puis je me suis retournée pour voir si quelqu’un était témoin de ce spectacle. Mais personne, il n’y avait que nous ...
+> J’étais tranquillement en train de profiter du calme du bosquet (vu que tu m’avais abandonnée pour aller voir un gros narbre). Là je me suis dit tiens du devrais voir des petites choses bêtes ici. Puis le silence a été rompu par quelque bruits de brindilles. J’ai ouvert les yeux, levé le nez et derrière l’arbre qui était à terre j’ai vu une sorte de plumet noir et blanc remuer. Je pensais avoir à faire à un gros oiseau alors je me suis levée. C’est là que j’ai aperçu les oreilles de cette très jolie biche en train de brouter. Je me suis approchée tout doucement pour ne pas l’effrayer. Elle m’a regardé je l’ai regardée puis je me suis retournée pour voir si quelqu’un était témoin de ce spectacle. Mais personne, il n’y avait que nous ...
 
 Voici qui clôt une nouvelle journée américaine ! Nous avons rendu notre Hundai avec 4000 miles de plus compteur, ce qui fait plus de 6400 kilomètres ! Je vous fait grâce de la centaine de miles du jour. 
 
