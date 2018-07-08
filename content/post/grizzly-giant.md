@@ -12,7 +12,7 @@ Mon épouse n'était pas très bien, un peu malade ce matin, nous déjeunons lé
 Pas de chance, l'assistance n'a toujours pas trouvé de dépanneuse... Nous conduisons donc la voiture nous mêmes a Fresno pour faire l'échange. 
 
 
-__ *Note :* Certaines des photos de cet article ont étés ajoutées contre mon gré par ma femme. __
+*Note : Certaines des photos de cet article ont étés ajoutées contre mon gré par ma femme.*
 
 ![Images 3](/images/07/07/3.jpeg)
 
