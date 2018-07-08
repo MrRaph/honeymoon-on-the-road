@@ -5,11 +5,11 @@ description: "Des arbres géants, des cascades, des hippies et des trucs mignons
 featured_image: '/images/07/07/5.jpeg'
 ---
 
-Ce matin nous nous sommes levés relativement tôt car nous devions recontacter l'assistance pour confirmer le dépannage de notre auto de l'année. Ce que nous avons fait avant d'aller déjeuner, la personne au bout du fil nous annonce que la dépanneuse sera là dans une heure, nous visons la voiture et allons petit déjeuner. 
+Ce matin nous nous sommes levés relativement tôt car nous devions recontacter l'assistance pour confirmer le dépannage de notre auto de l'année. Ce que nous avons fait avant d'aller déjeuner, la personne au bout du fil nous annonce que la dépanneuse sera là dans l'heure, nous vidons la voiture et allons petit déjeuner. 
 
 Mon épouse n'était pas très bien, un peu malade ce matin, nous déjeunons léger et attendons la dépanneuse. Une heure et demi plus tard, toujours personne. Comme nous n'avons pas de réseau mobile à notre hôtel, elle rappelle l'assistance via Skype. 
 
-Pas de chance, l'assistance n'a toujours pas trouvé de dépanneuse... Nous conduisons donc la voiture nous mêmes a Fresno pour faire l'échange. 
+Pas de chance, l'assistance n'a toujours pas trouvé de dépanneuse... Nous conduisons donc la voiture nous mêmes a Fresno pour faire l'échange, nous n'avons pas été TOWED ... :-(
 
 
 *Note : Certaines des photos de cet article ont étés ajoutées contre mon gré par ma femme.*
