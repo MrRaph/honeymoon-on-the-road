@@ -11,7 +11,7 @@ Nous sommes partis en voiture de l’hôtel en direction de Sausalito, une stati
 
 ![Images 1](/images/07/09/1.jpeg)
 
-Une route touristique avec moults point de vus part de Sausalito. Nous l’avons empruntée afin d’avoir de bons points de vue sur le pont. 
+Une route touristique avec moults points de vue part de Sausalito. Nous l’avons empruntée afin d’avoir de bons points de vue sur le pont. 
 
 Groot a mis des fleurs dans ses cheveux avant de prendre la photo mais elles se sont envolées à cause du vent ...
 
