@@ -1,5 +1,5 @@
 ---
-date: 2018-07-019T19:00:59-09:00
+date: 2018-07-09T19:00:59-09:00
 title: "If you're going to San Francisco"
 description: "La ville sur la baie"
 featured_image: '/images/07/09/1.jpeg'
