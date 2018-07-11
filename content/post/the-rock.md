@@ -9,7 +9,7 @@ Ce matin on s’est levés vraiment tôt, à 5h30. Nous avions un rendez-vous av
 
 ![Images 1](/images/07/10/1.jpeg)
 
-Le nom « Alcatraz » vient de l’espagnol « alcatraces » - le nom de fou de Bassan en espagnol - il a été donné à l’île en raison du grand nombre de pélicans qui s’y réfugiaient. 
+Le nom « Alcatraz » vient de l’espagnol « alcatraces », fou de Bassan, il a été donné à l’île en raison du grand nombre d'oiseaux qui s’y réfugiaient. 
 
 ![Images 2](/images/07/10/2.jpeg)
 
