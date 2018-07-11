@@ -1,7 +1,7 @@
 ---
 date: 2018-07-10T23:00:59-09:00
 title: "The Rock"
-description: ""
+description: "Prison de haute sécurité, Cubs et Giants"
 featured_image: '/images/07/10/1.jpeg'
 ---
 
