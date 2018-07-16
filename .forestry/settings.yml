@@ -10,7 +10,7 @@ sections:
 - path: content/post
   label: Post
   create: all
-upload_dir: static/uploads
+upload_dir: static/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
