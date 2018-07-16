@@ -9,7 +9,7 @@ language: go
 script:
   - python --version
   - sudo pip install awscli
-  - wget hugo_0.44_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.44/hugo_0.44_Linux-64bit.deb
   - apt install -y hugo_0.44_Linux-64bit.deb
   - HUGO_ENV="production" hugo -F
   - aws s3 sync --delete public/ s3://honeymoon-on-the-road/ --acl public-read
