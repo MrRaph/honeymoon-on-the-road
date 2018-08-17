@@ -20,7 +20,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "Notre voyage de noces sur la route 66"
-  facebook = "https://www.facebook.com/groups/HoneymoonOnTheRoad/"
+  facebook = ""
   twitter = ""
   instagram = ""
   youtube = ""
