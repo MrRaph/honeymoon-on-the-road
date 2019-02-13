@@ -1,5 +1,6 @@
 ---
 title: "Honeymoon on the road"
+description: "Notre lune de miel aux USA"
 featured_image: '/images/07/02/6.jpeg'
 date: 2017-03-02T12:00:00-05:00
 ---
