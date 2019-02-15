@@ -1,46 +1,20 @@
 ---
-date: 2018-06-25T18:00:59-07:00
-title: "Big Texan Steak Ranch"
-description: "De la viande, de la viande et encore de la viande !"
-featured_image: '/images/06/25/24.jpeg'
+date: 2019-02-16T7:00:59-07:00
+title: "Le départ"
+description: "Du brouillard sur Gatwick et du fun dans l'avion"
+featured_image: '/images/2019/02/15/1.jpeg'
 ---
 
-Comme prévu, nous sommes allés manger un bon gros steak Texan au « Big Texan Steak Ranch » pour dîner. Ce restaurant a ouvert en 1960 et est très vite devenu une institution de la Route 66 et du Texas.
+Groot ne tenait plus en place, nous avons donc convenu de partir en escapade pour notre week-end prolongé de la Saint Valentin. La destination cette fois, Londres ! Le coquin a vite retrouvé ses repères !
 
-![Image 22](/images/06/25/22.jpeg)
+![Image 1](/images/2019/02/15/1.jpeg)
 
-Après nous être garés sur le parking, nous nous sommes rendu compte que le restaurant se trouve juste à côté du « Longhorn Hotel ». Il s’agit d’un hôtel haut en couleur assez connu sur la Route 66.
+Le décollage a été décalé de 30 minutes à cause du brouillard à Gatwick. Du coup nos nous partageons nos premières photos par AirDrop et nous découvrons le téléphone d'un autre passager dans les options de partage. "Bière à 17h ?" l'occasion était trop belle !
 
-(La taille de l’image est assez grosse, désolé je n’ai pas pu optimiser les panoramas...)
+Nous lui partageons une de nos vieilles photos. 
 
-![Image 23](/images/06/25/23.jpeg)
+![Image 2](/images/2019/02/15/2.jpeg)
 
-Voici l’enseigne du restaurant qui nous a guidé jusqu’à lui depuis l’« Interstate ».
+V'la-t'y pas que le bougre nous répond en nous envoyant cela ! Drôle ! :-)
 
-![Image 24](/images/06/25/24.jpeg)
-
-A l’entrée nous sommes accueillis par une vache géante ! Elle a l’air coool !
-
-![Image 25](/images/06/25/25.jpeg)
-
-Voici à quoi ressemble la salle sur restaurant, c’est juste fou et encore y’a un étage au dessus ! Vous voyez les compteurs au fond de la salle ? C’est pour LE défi ! Avant de vous détailler ce défi, il faut que je vous raconte une petite histoire !
-
-Bob a ouvert le restaurant en 1960, le succès à été très rapide auprès des cowboys de la region. Ce qui a impressionné Bob. A tel point qu’en 1962, il a voulu savoir quelle quantité pouvait manger un cowboy en une heure. Il a donc mis toutes ses tables au centre de son restaurants et a attendu les cowboys habitués. 
-
-Il les a installés à table et leur a demandé de mettre 5$ chacun sur la table. Il leur a servi autant de nourriture qu’ils le souhaitaient en leur expliquant que le gagnant reporterait tous les dollars posés sur la table.
-
-Le gagnant a avalé 2 kilos de viandes - 72oz -, des pommes de terres rôties, des crevettes cocktail de la salade et un pain roulé. Depuis le restaurant propose un défi, celui de manger la même chose que le cowboy gagnant, en moins d’une heure et sans aide bien sûr ! 
-
-Si le défi est relevé, le repas vous est offert ! Bon courage :-)
-
-![Image 26](/images/06/25/26.jpeg)
-
-Cet homme a relevé le défi ce soir, malheureusement il n’est pas arrivé au bout de son assiette... Il a donc dû partir avec mal au ventre et une grosse note à payer !
-
-![Image 27](/images/06/25/27.jpeg)
-
-Les meilleurs temps sont affichés sur la carte du restaurant, le meilleur a mis 4 minutes et 18 secondes ...
-
-Seuls 15% des gens qui commandent ce plat réussissent le défi.
-
-Nous ne l’avons pas tenté mais nous avons certainement manger la meilleure viande de notre vie ! Et ne parlons pas du Banana Cake au du beurre de cacahuète !!!
+![Image 3](/images/2019/02/15/3.jpeg)
