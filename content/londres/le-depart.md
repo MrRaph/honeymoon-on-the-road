@@ -9,7 +9,7 @@ Groot ne tenait plus en place, nous avons donc convenu de partir en escapade pou
 
 ![Image 1](/images/2019/02/15/1.jpeg)
 
-Le décollage a été décalé de 30 minutes à cause du brouillard à Gatwick. Du coup nos nous partageons nos premières photos par AirDrop et nous découvrons le téléphone d'un autre passager dans les options de partage. "Bière à 17h ?" l'occasion était trop belle !
+Le décollage a été décalé de 30 minutes à cause du brouillard à Gatwick. Du coup nous nous partageons nos premières photos par AirDrop et nous découvrons le téléphone d'un autre passager dans les options de partage. "Bière à 17h ?" l'occasion était trop belle !
 
 Nous lui partageons une de nos vieilles photos. 
 
