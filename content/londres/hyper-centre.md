@@ -2,7 +2,7 @@
 date: 2019-02-15T21:10:59-07:00
 title: "Hyper Centre"
 description: "Du soleil, des monuments, de la marche à pieds !"
-featured_image: '/images/2019/02/15/1.jpeg'
+featured_image: '/images/2019/02/15/5.jpeg'
 ---
 
 Nous avons finalement décollés en retard et donc atterri en retard, mais pas autant en retard qu'attendu ! En sortant de l'aéroport nous avons eu notre bus directement - chance ! - bon on a mis grave longtemps à arriver à la gare Victoria mais on a pu se reposer un petit peu pendant le trajet. 
