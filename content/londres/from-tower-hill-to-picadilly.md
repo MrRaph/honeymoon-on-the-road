@@ -1,50 +1,56 @@
 ---
-date: 2019-02-15T21:10:59-07:00
-title: "Hyper Centre"
-description: "Du soleil, des monuments, de la marche à pieds !"
-featured_image: '/images/2019/02/15/5.jpeg'
+date: 2019-02-16T21:10:59-07:00
+title: "From Tower Hill to Piccadilly Circus"
+description: "Du typique Anglais sous la grisaille."
+featured_image: '/images/2019/02/16/5.jpeg'
 ---
 
-Nous avons finalement décollés en retard et donc atterri en retard, mais pas autant en retard qu'attendu ! En sortant de l'aéroport nous avons eu notre bus directement - chance ! - bon on a mis grave longtemps à arriver à la gare Victoria mais on a pu se reposer un petit peu pendant le trajet. 
+Après une bonne et longue nuit de sommeil nous revoilà partis à l'aventure dans la capitale Anglaise. Hier nous avons marché presque 17 kilomètres aussi aujourd'hui nous décidons d'économiser nos chaussures et prenons le bus pour nous rendre de London Eye à Tower Hill. 
 
-![Image 4](/images/2019/02/15/4.jpeg)
+![Image 1](/images/2019/02/16/1.jpeg)
 
-Nous voilà partis de la gare, et nous partons à pieds jusqu'à l'arc de Wellington, décoré à l'occasion de la Saint Valentin !
+En arrivant près de la tour de Londres nous croisons ce petit écureuil rigolo !
 
-![Image 5](/images/2019/02/15/5.jpeg)
+![Image 2](/images/2019/02/16/2.jpeg)
 
-Nous descendons ensuite par Green Park pour arriver à Buckingham Palace. Groot fiât sa star sur la fontaine !
+Le petit coquin est poseur en plus !
 
-![Image 6](/images/2019/02/15/6.jpeg)
+![Image 3](/images/2019/02/16/3.jpeg)
 
-Nous avons même le droit d'assister à la relève de la garde - re chance - ce n'était pas du tout prévu !!!
+Et nous voilà arrivés à la tour de Londres, le donjon carré au centre est la plus ancienne. Elle date de 1060 quand Guillaume le Conquérant a fortifié l'entrée de la ville du côté de la Tamise. 
 
-![Image 7](/images/2019/02/15/7.jpeg)
+![Image 4](/images/2019/02/16/4.jpeg)
 
-Hop, petit écureuil argenté croisé dans un jardin. 
+![Image 5](/images/2019/02/16/5.jpeg)
 
-![Image 8](/images/2019/02/15/8.jpeg)
+En tournant autour du monument, le Tower Bridge se dévoile et Groot a eu envie de faire une pause photo !
 
-Bon, voici la plus grande déception de ma femme, Big Ben dans ses échafaudages. Du coup, pas de photos de Groot, on ne lui a même pas parlé de Big Ben ...
+![Image 6](/images/2019/02/16/6.jpeg)
 
-![Image 9](/images/2019/02/15/9.jpeg)
+Nous terminons le tour de la Tour de Londres et arrivons au pied du Tower Bridge. Il doit s'ouvrir aujourd'hui vers 22h mais nous ne serons certainement plus là !
 
-Après une petite halte à l'hôtel nous repartons en direction de Trafalgar Square. Nous croisons des gardes montés sur des chevreaux facétieux devant le musée de la guerre. Nous passons faire un coucou devant le 10 Downing Street et arrivons à Trafalgar Square. 
+![Image 7](/images/2019/02/16/7.jpeg)
 
-![Image 10](/images/2019/02/15/10.jpeg)
+En repartant nous croisons un vieux bus à l'impériale, les nouveaux ont quand même moins de classe !
 
-Nous ne nous attardons pas et tirons vers Saint Paul Church puis Covent Garden Market. C'est un marché couvert bien sympa dans lequel nous achetons un cookie de chez Ben et nous arrêtons boire un coup. 
+![Image 8](/images/2019/02/16/8.jpeg)
 
-![Image 11](/images/2019/02/15/11.jpeg)
+Après un coup d'Underground nous arrivons à Piccadilly Circus. Nous remontons Regent Street jusqu'à Oxford Square et redescendons sur Piccadilly Circus pour manger, mais en bus cette fois-ci !
 
-Nous voici arrivez la où ma femme voulait m'emmener depuis le début de la semaine, Chinatown ! Le moins qu'on puisse dire, c'est que c'est dépaysant !
+![Image 9](/images/2019/02/16/9.jpeg)
 
-![Image 12](/images/2019/02/15/12.jpeg)
+Une fois le repas de midi avalé à 15h, nous remontons dans le bus direction ...
 
-Hop, petite pause cidre dans un pub pour repérer le restaurant de ce soir et reposer nos guibolles !
+![Image 10](/images/2019/02/16/10.jpeg)
 
-![Image 13](/images/2019/02/15/13.jpeg)
+Westminster Abbey !
 
-Et ce soir ce sera, ramen ! Une spécialité japonaise à base de nouilles de riz et de bouillon. 
+![Image 11](/images/2019/02/16/11.jpeg)
 
-Nous rentrons ensuite à l'hôtel pour une nuit bien méritée ! Nous avons eu un super temps toute la journée on se serait cru au printemps !
+Après quelques verres dans un pub, nous retournons à l'hôtel ! :-)
+
+![Image 12](/images/2019/02/16/12.jpeg)
+
+Ah oui, depuis l'hôtel on a une vue sur Big Ben, enfin ... Big Chantier en ce moment ! ;-)
+
+Et voilà la deuxième journée qui se termine par un repas en chambre à l'hôtel après près de 11 kilomètres de marche !
