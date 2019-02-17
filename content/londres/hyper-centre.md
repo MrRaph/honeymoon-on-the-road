@@ -13,7 +13,7 @@ Nous voilà partis de la gare, et nous partons à pieds jusqu'à l'arc de Wellin
 
 ![Image 5](/images/2019/02/15/5.jpeg)
 
-Nous descendons ensuite par Green Park pour arriver à Buckingham Palace. Groot fiât sa star sur la fontaine !
+Nous descendons ensuite par Green Park pour arriver à Buckingham Palace. Groot fît sa star sur la fontaine !
 
 ![Image 6](/images/2019/02/15/6.jpeg)
 
