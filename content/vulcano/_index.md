@@ -1,5 +1,3 @@
-Voyage au pays de Port Réal ! :-)
-
 ---
 title: "Vulcano"
 description: "Summer Break 2019"
