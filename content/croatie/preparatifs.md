@@ -1,5 +1,5 @@
 ---
-date: 2019-07-p7T21:10:59-07:00
+date: 2019-07-07T21:10:59-07:00
 title: "Préparatifs"
 description: "Tout est prêt, ou presque !"
 featured_image: '/images/2019/07/dubrovnik.JPG'
