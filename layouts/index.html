@@ -25,7 +25,7 @@
     <h1 class="flex-none">
       Voyages
     </h1>
-    {{ range .Site.Sections }}
+    {{ range sort .Site.Sections ".Date" "desc" }}
     <section class="w-100">
         <div class="relative w-100 mb4">
           {{ partial "summary-with-image.html" . }}
