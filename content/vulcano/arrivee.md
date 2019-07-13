@@ -43,7 +43,7 @@ Nous découvrons une paillote un peu plus loin et décidons de nous y arrêtons 
 
 ![Images 6](/images/2019/07/12/6.JPG)
 
-Nous regardons l'heure du dinner, grâce à notre apéro de compétition et profitons du coucher de soleil sur la plage. 
+Nous retardons l'heure du dinner, grâce à notre apéro de compétition et profitons du coucher de soleil sur la plage. 
 
 ![Images 7](/images/2019/07/12/7.JPG)
 
