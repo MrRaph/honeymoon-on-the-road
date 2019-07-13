@@ -21,11 +21,11 @@ Après un passage par la chambre d'hôtel pour chausser nos chaussures de marche
 
 Vulcanello est la partie nord de l'île de Vulcano, elle est apparue lors d'une éruption volcanique en 183 avant Jésus Christ. Elle était alors une île séparée de Vulcano. 
 
-Vulcanello a grandi a du fil des éruptions. L'éruption de 1888 a formé l'isthme qui relie maintenant les deux îles.
+Vulcanello a grandi au fil des éruptions. L'éruption de 1888 a formé l'isthme qui relie maintenant les deux îles.
 
 ![Images 4](/images/2019/07/13/4.jpg)
 
-Nous sommes allés sur le flanc de cet ancien volcan. Cette une sensation assez étrange de sentir le sol sonner creux sous ses pas ! L'endroit offre une très belle vue sur l'île voisine de Lipari.
+Nous sommes allés sur le flanc de cet ancien volcan. C'est une sensation assez étrange de sentir le sol sonner creux sous ses pas ! L'endroit offre une très belle vue sur l'île voisine de Lipari.
 
 Il faisait tellement chaud que nous avons été contents de retrouver l'ombre toute relative de la route.  
 
