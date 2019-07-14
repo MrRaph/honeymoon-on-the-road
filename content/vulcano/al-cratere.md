@@ -5,7 +5,7 @@ description: "Récit de notre ascension au sommet"
 featured_image: '/images/2019/07/14/7.JPG'
 ---
 
-Comme je vous le disais hier soir, ce matin le réveil a sonné très TRÈS tôt ! Nous voilà réveillés à peine après 3h30, on s'est quand même demandes si on était pas fous de se lever aussitôt en vacances mais nous avions déjà notre objectif en tête !
+Comme je vous le disais hier soir, ce matin le réveil a sonné très TRÈS tôt ! Nous voilà réveillés à peine après 3h30, on s'est quand même demandé si on était pas fous de se lever aussi tôt en vacances mais nous avions déjà notre objectif en tête !
 
 ![Images 1](/images/2019/07/14/1.JPG)
 
@@ -21,7 +21,7 @@ Alors que nous quittons la ville et que nous commençons notre ascension, nous s
 
 ![Images 3](/images/2019/07/14/4.JPG)
 
-Nous voilà maintenant en pleine ascension assez lente, nous prenons notre temps, la montée à la frontale est un peu hasardeuse par endroits. La présence d'une couche de sable assez épaisse pendant une très grande partie de la montée ne fait qu'ajouter à la difficulté et met nos cuisses et nos fessiers à rude épreuve !
+Nous voilà maintenant en pleine ascension, assez lente, nous prenons notre temps, la montée à la frontale est un peu hasardeuse par endroits. La présence d'une couche de sable assez épaisse pendant une très grande partie de la montée ne fait qu'ajouter à la difficulté et met nos cuisses et nos fessiers à rude épreuve !
 
 Haha mais je ne vous ai pas dit où nous allions aussi tôt le matin !!! Et bien voilà, nous nous rendons au sommet du volcan de l'île de Vulcano et nous ne sommes pas peu fiers d'y être arrivés les premiers ce matin !
 
@@ -37,7 +37,7 @@ Le soleil a finalement pointé le bout de son nez aux alentours de 5h45, tout ti
 
 ![Images 6](/images/2019/07/14/6.JPG)
 
-Nous avons pas boudé notre plaisir et profité des ces instants magiques pour récupérer et sécher un peu ! :-D
+Nous n'avons pas boudé notre plaisir et profité des ces instants magiques pour récupérer et sécher un peu ! :-D
 
 ![Images 7](/images/2019/07/14/7.JPG)
 
@@ -45,7 +45,7 @@ A l'heure où les coqs réveillaient leurs propriétaires, nous admirions la bea
 
 ![Images 8](/images/2019/07/14/8.JPG)
 
-Bon, après une petite heure de pause, nous nous sommes résolus à redescendre attirés par le bon petit déjeuner de l'hôtel auquel nous n'avons pas encore pu goutter. Le personnel de l'hôtel nous a un peu pris pour des fous crados mais nous avons vraiment apprécié de manger les bonnes choses qu'ils proposaient. 
+Bon, après une petite heure de pause, nous nous sommes résolus à redescendre attirés par le bon petit déjeuner de l'hôtel auquel nous n'avons pas encore pu goûter. Le personnel de l'hôtel nous a un peu pris pour des fous crados mais nous avons vraiment apprécié de manger les bonnes choses qu'ils proposaient. 
 
 Nous avons été prendre une bonne douche puis nous avons terminé notre nuit, nous réveillant seulement aux alentours de 14h. 
 
