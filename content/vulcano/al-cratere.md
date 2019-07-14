@@ -27,28 +27,42 @@ Haha mais je ne vous ai pas dit où nous allions aussi tôt le matin !!! Et bien
 
 ![Images 4](/images/2019/07/14/3.JPG)
 
-Les volutes blanches que l'on voit sur les photos ne sont pas des nuages mais des émanations soufrées provenant du volcan. Nous aurions normalement pu faire le tour du cratère mais ce matin les émanations nous bloquaient littéralement le chemin ... Nous nous installons sur une aire d'atterrissage pour hélicoptère en attendant l'heure du lever de soleil. 
+Les volutes blanches que l'on voit sur les photos ne sont pas des nuages mais des émanations soufrées provenant du volcan. Nous aurions normalement pu faire le tour du cratère mais ce matin les émanations nous bloquaient littéralement le chemin ... 
+
+Il est 5h15 lorsque nous atteignons le sommet, après 1h30 de marche depuis l'hôtel. Nous nous installons sur une aire d'atterrissage pour hélicoptère en attendant l'heure du lever de soleil. 
 
 ![Images 5](/images/2019/07/14/5.JPG)
 
-
+Le soleil a finalement pointé le bout de son nez aux alentours de 5h45, tout timidement au début. Mais dès qu'il a été un peu plus visible, la moiteur de la nuit a fait place à un temps un peu plus sec.
 
 ![Images 6](/images/2019/07/14/6.JPG)
 
-
+Nous avons pas boudé notre plaisir et profité des ces instants magiques pour récupérer et sécher un peu ! :-D
 
 ![Images 7](/images/2019/07/14/7.JPG)
 
-
+A l'heure où les coqs réveillaient leurs propriétaires, nous admirions la beauté des îles Éoliennes depuis le sommet de Vulcano !
 
 ![Images 8](/images/2019/07/14/8.JPG)
 
+Bon, après une petite heure de pause, nous nous sommes résolus à redescendre attirés par le bon petit déjeuner de l'hôtel auquel nous n'avons pas encore pu goutter. Le personnel de l'hôtel nous a un peu pris pour des fous crados mais nous avons vraiment apprécié de manger les bonnes choses qu'ils proposaient. 
 
+Nous avons été prendre une bonne douche puis nous avons terminé notre nuit, nous réveillant seulement aux alentours de 14h. 
 
 ![Images 9](/images/2019/07/14/9.JPG)
 
+Nous sommes ensuite allés manger rapidement puis directement à la plage où nous avons encore profité de la mer et des vagues !
 
+Puis nous sommes retournés dans la paillote de Mario et Peach pour siroter un cocktail. Le soir approchant nous sommes allés chez Mario Pizza commander deux pizze à emporter. 
 
 ![Images 10](/images/2019/07/14/10.JPG)
 
+Nous les avons mangés au "lounge bar" de l'hôtel avant de siroter un cocktail à la fraîche. 
 
+Sympa le cadre non ?!?
+
+![Images 11](/images/2019/07/14/11.JPG)
+
+Petite surprise avant de rentrer dans notre chambre ! Cherchez Mario le Gecko ! ;-)
+
+Nous voilà prêt à aller nous coucher avant l'expédition de retour qui nous attend demain. Et oui, c'est déjà presque fini ... Promis, on retournera en Sicile !!! :-)
