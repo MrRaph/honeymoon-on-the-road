@@ -66,3 +66,4 @@ Sympa le cadre non ?!?
 Petite surprise avant de rentrer dans notre chambre ! Cherchez Mario le Gecko ! ;-)
 
 Nous voilà prêt à aller nous coucher avant l'expédition de retour qui nous attend demain. Et oui, c'est déjà presque fini ... Promis, on retournera en Sicile !!! :-)
+
