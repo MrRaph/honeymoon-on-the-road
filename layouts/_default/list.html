@@ -1,7 +1,19 @@
 {{ define "main" }}
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-  <main class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+  <main class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy mid-gray">
     {{- .Content -}}
+    <iframe
+        src="/maps/{{ .Section }}.html"
+        title="{{ .Section }} - Carte"
+        height="400"
+        width="400"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 20px; width: 100%;"
+        allowfullscreen="true">
+    </iframe>
   </main>
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}

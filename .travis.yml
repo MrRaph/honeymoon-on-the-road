@@ -10,8 +10,10 @@ sudo: required
 script:
   - python --version
   - sudo pip install awscli
+  - sudo pip install -r requirements.txt
   - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
   - sudo dpkg -i hugo_0.46_Linux-64bit.deb
+  - sudo python ./map.py || echo 'Failed'
   - HUGO_ENV="production" hugo -F
   - aws s3 sync --delete public/ s3://holidays-aldanet-fr/ --acl public-read
   - mkdir ~/.aws
