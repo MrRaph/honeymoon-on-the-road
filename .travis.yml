@@ -6,6 +6,11 @@ branches:
 
 dist: trusty
 sudo: required
+addons:
+  apt:
+    packages:
+      - "python3"
+      - "python3-pip"
 #install: go get -v github.com/spf13/hugo
 script:
   - python3 --version
