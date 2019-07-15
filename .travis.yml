@@ -13,7 +13,14 @@ addons:
       - "python3-pip"
       - "python3-setuptools"
       - "python3-dev"
-#install: go get -v github.com/spf13/hugo
+      - "libtiff4-dev"
+      - "libjpeg8-dev"
+      - "zlib1g-dev"
+      - "libfreetype6-dev"
+      - "liblcms2-dev"
+      - "libwebp-dev"
+      - "tcl8.5-dev"
+      - "tk8.5-dev"
 script:
   - python3 --version
   - sudo pip install awscli
