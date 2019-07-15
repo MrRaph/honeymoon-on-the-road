@@ -12,6 +12,7 @@ addons:
       - "python3"
       - "python3-pip"
       - "python3-setuptools"
+      - "python3-dev"
 #install: go get -v github.com/spf13/hugo
 script:
   - python3 --version
