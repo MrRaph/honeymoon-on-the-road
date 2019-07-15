@@ -8,7 +8,7 @@ dist: trusty
 sudo: required
 #install: go get -v github.com/spf13/hugo
 script:
-  - python --version
+  - python3 --version
   - sudo pip install awscli
   - sudo pip install -r requirements.txt
   - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
