@@ -2,22 +2,22 @@
 date: 2018-06-20T23:00:59+02:00
 title: "Goodbye Chicago ..."
 description: "´Baby you're a firework´"
-featured_image: '/images/06/20/16.jpeg'
+featured_image: '/images/honeymoon-on-the-road/2018/06/20/16.jpeg'
 ---
 
 Comme convenu, voici un petit article pour terminer la journée d'hier. Après la longue sieste de ma dame, nous avons passé la soirée sur la jetée Navy (Navy Pier). Il s'agit d'une avancée de près d'un kilomètre sur le lac Michigan dont la construction a été achevée en 1916.
 
 Autrefois elle servait à accueillir les bateaux de marchandises qui circulaient sur le lac à destination de Chicago. Elle a depuis été transformée en parc d'attraction.
 
-![Chicago](/images/06/20/13.jpeg)
+![Chicago](/images/honeymoon-on-the-road/2018/06/20/13.jpeg)
 
 La vue est splendide mais nous sommes quand même bien au Nord et le vent se fait très piquant une fois la nuit tombée !
 
-![Chicago](/images/06/20/14.jpeg)
+![Chicago](/images/honeymoon-on-the-road/2018/06/20/14.jpeg)
 
 La jetée offre une vue imprenable sur la ville et le Loop.
 
-![Chicago](/images/06/20/15.jpeg)
+![Chicago](/images/honeymoon-on-the-road/2018/06/20/15.jpeg)
 
 Un feu d'artifice est tiré tous les mercredi et samedi soirs. Nous avons été chanceux car par un pur hasard nous y sommes allés un mercredi !!
 
@@ -33,7 +33,7 @@ Un feu d'artifice est tiré tous les mercredi et samedi soirs. Nous avons été 
 
  
 
-![Chicago](/images/06/20/16.jpeg)
+![Chicago](/images/honeymoon-on-the-road/2018/06/20/16.jpeg)
 
 Je dois avouer que je suis assez fier de cette photo ! :-D
 
