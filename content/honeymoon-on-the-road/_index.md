@@ -6,17 +6,17 @@ date: 2017-03-02T12:00:00-05:00
 ---
 
 
-« Well if you ever plan to motor west
+#### _« Well if you ever plan to motor west_
 
-Just take my way it's the highway that's the best
+#### _Just take my way it's the highway that's the best_
 
-Get your kicks on Route 66
+#### _Get your kicks on Route 66_
 
-Well it winds from Chicago to L.A.
+#### _Well it winds from Chicago to L.A._
 
-More than 2000 miles all the way
+#### _More than 2000 miles all the way_
 
-Get your kicks on Route 66 »
+#### _Get your kicks on Route 66 »_
 
 
-### Nelson Riddle
+##### Nelson Riddle
