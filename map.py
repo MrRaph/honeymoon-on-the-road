@@ -88,6 +88,9 @@ def main():
 
     folders = []
 
+    allLongs = []
+    allLats = []
+
     # r=root, d=directories, f = files
     for r, d, f in os.walk(imagesBasePath):
         for folder in d:
@@ -115,6 +118,9 @@ def main():
                 try:
                     lats.append(float(coord[0]))
                     longs.append(float(coord[1]))
+
+                    allLats.append(float(coord[0]))
+                    allLongs.append(float(coord[1]))
                 except:
                     pass
 
@@ -126,8 +132,6 @@ def main():
         except:
             m = folium.Map(location=[sum(lats)/len(lats), sum(longs)/len(longs)])
 
-        # m = folium.Map(location=[statistics.mean(lats), statistics.mean(longs)], min_lat=min(lats), max_lat=max(lats), min_lon=min(longs), max_lon=max(longs))
-
         for i in range(len(lats)):
             folium.Marker(
                 location=[lats[i], longs[i]],
@@ -135,5 +139,15 @@ def main():
             ).add_to(m)
 
         m.save('static/maps/' + folder.split('/')[2] + '.html')
+
+    m = folium.Map(zoom_start=3, location=["52.024057", "-30.920006"])
+
+    for i in range(len(allLats)):
+        folium.Marker(
+            location=[allLats[i], allLongs[i]],
+            icon=folium.Icon(color='green')
+        ).add_to(m)
+
+    m.save('static/maps/global.html')
 
 main()
