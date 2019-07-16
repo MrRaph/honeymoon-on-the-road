@@ -3,6 +3,7 @@ from PIL.ExifTags import TAGS, GPSTAGS
 import os
 import folium
 import statistics
+import json
 
 class ImageMetaData(object):
     '''
@@ -117,8 +118,15 @@ def main():
                 except:
                     pass
 
-        m = folium.Map(location=[statistics.mean(lats), statistics.mean(longs)], min_lat=min(lats), max_lat=max(lats), min_lon=min(longs), max_lon=max(longs))
-        m = folium.Map(location=[sum(lats)/len(lats), sum(longs)/len(longs)])
+        try:
+            print('toto')
+            with open('static/maps/' + folder.split('/')[2] + '.json') as json_file:  
+                data = json.load(json_file)
+                m = folium.Map(location=[data["base_lat"], data["base_long"]], zoom_start=data["zoom"])
+        except:
+            m = folium.Map(location=[sum(lats)/len(lats), sum(longs)/len(longs)])
+
+        # m = folium.Map(location=[statistics.mean(lats), statistics.mean(longs)], min_lat=min(lats), max_lat=max(lats), min_lon=min(longs), max_lon=max(longs))
 
         for i in range(len(lats)):
             folium.Marker(
