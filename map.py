@@ -140,7 +140,7 @@ def main():
 
         m.save('static/maps/' + folder.split('/')[2] + '.html')
 
-    m = folium.Map(zoom_start=3, location=["52.024057", "-35.920006"])
+    m = folium.Map(zoom_start=3, location=["52.024057", "-40.920006"])
 
     for i in range(len(allLats)):
         folium.Marker(
