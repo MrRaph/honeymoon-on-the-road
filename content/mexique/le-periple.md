@@ -1,11 +1,13 @@
 ---
 date: 2020-02-11T23:10:59-07:00
 title: "Le périple"
-description: "UNDEFINED"
+description: "De rebondissements en rebondissements ..."
 featured_image: '/images/mexique/2020/02/11/1.JPG'
 ---
 
-_[Un peu avant 5h du matin]_
+Hier soir, nous avons terminé de boucler les valises. Nous avons pris le tout premier cachet anti-paludisme de notre séjour. 
+
+_[Un peu avant 5h ce matin]_
 
 C'est un peu avant 5 heures du matin que nous quittons notre maison ce matin, abandonnant nos bestioles poilues. Pour se mettre en jambe, nous avalons les 45 minutes de route qui nous séparent de l'aéroport. 
 
