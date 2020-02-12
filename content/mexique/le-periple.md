@@ -11,7 +11,7 @@ _[Un peu avant 5h ce matin]_
 
 C'est un peu avant 5 heures du matin que nous quittons notre maison ce matin, abandonnant nos bestioles poilues. Pour se mettre en jambe, nous avalons les 45 minutes de route qui nous séparent de l'aéroport. 
 
-Lors de l'enregistrement de nos bagages, nous récupérons les cartes d'embarquement de ma chérie que nous n'avions pas pu avoir en ligne contrairement aux miennes. La personne au comptoir nous fait remarquer la présence de autre S sur les cartes de ma chérie. Ceci sert à indiquer des contrôles supplémentaires à toutes les étapes du voyage. 
+Lors de l'enregistrement de nos bagages, nous récupérons les cartes d'embarquement de ma chérie que nous n'avions pas pu avoir en ligne contrairement aux miennes. La personne au comptoir nous fait remarquer la présence de quatre S sur les cartes de ma chérie. Ceci sert à indiquer des contrôles supplémentaires à toutes les étapes du voyage. 
 
 _[Un peu avant 8h (heure Française)]_
 
@@ -27,11 +27,11 @@ _[Vers 10h30]_
 
 Nous trouvons la porte d'embarquement close. Pourtant le décollage étant prévu pour 11h15, elle devrait être en pleine activité. On nous apprend que la porte est close pour des raisons de maintenance. Nous attendons 1/2 heure de plus. 
 
-Enfin la porte ouvre,  pus passer rapidement la file d'attente. Ma chérie est mise de côté pour passer des contrôles supplémentaires (détection de drogue, fouille des bagages, ...). 
+Enfin la porte ouvre, nous avons pu passer rapidement la file d'attente. Ma chérie est mise de côté pour passer des contrôles supplémentaires (détection de drogue, fouille des bagages, ...). 
 
 _[Aux alentours de 11h30]_
 
-Nous sommes montés dans l'avion qui nous amènera à Dallas, notre seconde étape. Au bout de quelques minutes, lacions s'ébranle et roule sur la piste pendant plusieurs minutes avant de s'immobiliser. 
+Nous sommes montés dans l'avion qui nous amènera à Dallas, notre seconde étape. Au bout de quelques minutes, l'avion s'ébranle et roule sur la piste pendant plusieurs minutes avant de s'immobiliser. 
 
 _[Aux alentours de 12h20]_
 
