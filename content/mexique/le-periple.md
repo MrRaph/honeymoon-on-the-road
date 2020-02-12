@@ -29,14 +29,26 @@ Nous trouvons la porte d'embarquement close. Pourtant le décollage étant prév
 
 Enfin la porte ouvre,  pus passer rapidement la file d'attente. Ma chérie est mise de côté pour passer des contrôles supplémentaires (détection de drogue, fouille des bagages, ...). 
 
-_[Au alentours de 11h30]_
+_[Aux alentours de 11h30]_
 
 Nous sommes montés dans l'avion qui nous amènera à Dallas, notre seconde étape. Au bout de quelques minutes, lacions s'ébranle et roule sur la piste pendant plusieurs minutes avant de s'immobiliser. 
 
-_[Au alentours de 12h20]_
+_[Aux alentours de 12h20]_
 
 Nous avons eu il y a quelques minutes une communication du commandant nous donnant des nouvelles par rapport à l'immobilisme de notre appareil. Visiblement une pièce serait défaillante et les équipes ont dû travailler pour l'identifier. Ils ont ensuite appelé Boeing qui a validé le fait que le vol était sûr ainsi et que la pièce pouvait être changée à Dallas. 
 
 Enfin, nous décollons avec plus d'une heure de retard. 
 
-![Images 2](/images/mexique/2020/02/11/2.JPG)
+![Images 1](/images/mexique/2020/02/11/1.JPG)
+
+_[Aux alentours de 16h40 (heure de Dallas)]_
+
+Nous atterrissons aux USA pour une escale de près de 3 heures initialement. Dans les faits, entre les retards et les passages à l'immigration et aux contrôles l'escale a été vraiment courte. 
+
+Nous repartons à 19h15 direction Cancún. 
+
+_[Aux alentours de 22h50 (heure de Cancún)]_
+
+Après un peu plus de deux heures de vol nous atteignons notre destination finale, Cancún. Nous passons l'immigration et récupérons nos bagages. Il nous fait maintenant récupérer "el coche". Vers minuit nous repartons au volant de notre superbe Chevrolet. Direction l'hôtel et dodo après une journée de près de 28h. 
+
+Demain on se lève assez tôt, vers 9h pour trouver deux trois trucs manquants avant l'excursion du jour. 
