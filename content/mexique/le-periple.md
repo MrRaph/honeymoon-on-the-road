@@ -49,6 +49,6 @@ Nous repartons à 19h15 direction Cancún.
 
 _[Aux alentours de 22h50 (heure de Cancún)]_
 
-Après un peu plus de deux heures de vol nous atteignons notre destination finale, Cancún. Nous passons l'immigration et récupérons nos bagages. Il nous fait maintenant récupérer "el coche". Vers minuit nous repartons au volant de notre superbe Chevrolet. Direction l'hôtel et dodo après une journée de près de 28h. 
+Après un peu plus de deux heures de vol nous atteignons notre destination finale, Cancún. Nous passons l'immigration et récupérons nos bagages. Il nous fait maintenant récupérer "el coche". Vers minuit nous repartons au volant de notre superbe Chevrolet. Direction l'hôtel et dodo après une journée de près de 28h, on est rincés. 
 
 Demain on se lève assez tôt, vers 9h pour trouver deux trois trucs manquants avant l'excursion du jour. 
