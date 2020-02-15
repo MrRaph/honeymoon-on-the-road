@@ -45,15 +45,17 @@ En retournant à notre voiture, après un déjeuner local très apprécié, nous
 
 ![Images 6](/images/mexique/2020/02/14/6.JPG)
 
-Nous reprenons la route pour une petite heure, direction Tulum ou nous logerons ces trois prochains jours. 
+Nous reprenons la route pour une petite heure, direction Tulum ou nous logerons ces trois prochains jours. La fondation de cette ville remonterait à l’an 564. Les Maya de la cité de Cobá l’utilisaient comme un important port de pêche. La cité côtière dispose d’un important site archéologique Maya. Cependant la majorité des vestiges de Tulum (Tulu’um en Maya) remontent à l’an 1200. 
 
 ![Images 7](/images/mexique/2020/02/14/7.JPG)
 
-Nous dépassons la ville de Tulum pour trouver notre hôtel « spécial Saint Valentin ».  ¡ Muy romantico ! Il est situé sur une route longeant l’océan, coincé entre la jungle et l’océan. 
+Nous dépassons la ville de Tulum pour trouver notre hôtel « spécial Saint Valentin ».  ¡ Muy romantico ! Il est situé sur une route longeant l’océan, coincé entre la jungle et l’océan. Il promet un dépaysement total !
 
 ![Images 11](/images/mexique/2020/02/14/11.JPG)
 
-L’hôtel est tellement planqué qu’on a tourné plus de 30 minutes sur une route pleine de trous et des piétons partout. La statue se trouve en face de l’entrée de notre hôtel. Si j’y pense, demain je ferais des photos de la rue. On se croirait dans un film de pirates !
+L’hôtel est tellement planqué qu’on a tourné plus de 30 minutes sur une route pleine de trous et des piétons partout avant de le trouver ... En demandant l’aide d’un local ... 
+
+La statue se trouve en face de l’entrée de notre hôtel. Si j’y pense, demain je ferais des photos de la rue. On se croirait dans un film de pirates !
 
 ![Images 8](/images/mexique/2020/02/14/8.JPG)
 
