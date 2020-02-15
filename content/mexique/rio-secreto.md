@@ -15,7 +15,7 @@ Une fois l’entrée et le film explicatif passés, nous montons dans un minibus
 
 Sitôt descendus du minibus, on s’équipe et on part marcher dans la jungle. Quelques centaines de mètres plus loin, nous sommes invités à une petite cérémonie Maya ayant pour but de nous protéger pendant notre séjour dans l’« inframundo ». 
 
-Nous descendons dans un cénote asséché jusqu’à l’entrée de la grotte. L’entrée de celle-ci a été découverte en 2006 par un local qui chassait l’iguane. Sa proie a subitement disparue dans un trou. Intrigué,  l’homme lance un caillou dans le trou et entend un bruit d’eau. C’est comme qu’a commencé l’exploration de ces cavernes. Il y a maintenant 44 kilomètres de galeries répertoriées et 7 entrées différentes. 
+Nous descendons dans un cénote asséché jusqu’à l’entrée de la grotte. L’entrée de celle-ci a été découverte en 2006 par un local qui chassait l’iguane. Sa proie a subitement disparue dans un trou. Intrigué,  l’homme lance un caillou dans le trou et entend un bruit d’eau. C’est comme ça qu’a commencé l’exploration de ces cavernes. Il y a maintenant 44 kilomètres de galeries répertoriées et 7 entrées différentes. 
 
 ![Images 2](/images/mexique/2020/02/14/2.JPG)
 
@@ -38,6 +38,14 @@ Ah oui, nous n’étions pas seuls dans la grotte ! Des chauves-souris les habit
 Et voilà notre beau periple dans les fondation de la péninsule du Yucatán ! :-)
 
 _Merci ma petite femme pour la surprise que tu as réussi à garder jusqu’au bout malgré mon insistance ! :D_
+
+![Images 12](/images/mexique/2020/02/14/12.JPG)
+
+Une petite dernière pour la route !
+
+![Images 13](/images/mexique/2020/02/14/13.JPG)
+
+Et voilà le petit groupe avec lequel nous avons exploré la grotte. De très belles rencontres, nous avons passé un super moment avec ces personnes ! Certains viennent du Chili, d'autres de Vancouver au Cananda et une personne d'Argentine. Nous avons bien taillé la bavette pendant le repas servi après l'activité, à moitié en Anglais et l'autre en Espagnol ! Merci à tous ! :-)
 
 ![Images 5](/images/mexique/2020/02/14/5.JPG)
 
