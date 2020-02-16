@@ -5,7 +5,7 @@ description: "Escalade d’une pyramide Maya"
 featured_image: '/images/mexique/2020/02/15/6.JPG'
 ---
 
-Ce matin nous partons de notre hôtel vers 10h30 pour rallier Cobá, située à une bonne quarantaine de kilomètres au nord de Tulum. 
+Ce matin nous partons de notre hôtel vers 10h30 pour rallier Cobá, située à une bonne quarantaine de kilomètres au nord-est de Tulum. 
 
 Nous parcourons cette distance sur la QROO-109, désespérément droite ... Nous trouvons une place sur le parking du site, nous achetons nos billets et partons à l’aventure aux alentours de 11h45. 
 
