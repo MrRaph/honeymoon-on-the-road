@@ -9,7 +9,7 @@ Ce matin nous nous levons vers 5h30 pour être à l’heure à notre rendez-vous
 
 Nous avons réservé une excursion mêlant du snorkeling pour voir le récif de corail et les animaux marins et un parcours dans la jungle pour visiter quatre cenotes. 
 
-Cette activité devait avoir lieu jeudi et a été annulée à cause de l’trop mauvaise météo en mer. 
+Cette activité devait avoir lieu jeudi et a été annulée à cause d'une trop mauvaise météo en mer. 
 
 ![Images 1](/images/mexique/2020/02/16/1.JPG)
 
