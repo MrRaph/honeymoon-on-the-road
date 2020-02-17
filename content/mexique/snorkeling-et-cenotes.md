@@ -5,17 +5,17 @@ description: "Des fonds marins aux profondeurs de la terre"
 featured_image: '/images/mexique/2020/02/16/1.JPG'
 ---
 
-Ce matin nous nous levons vers 5h30 pour nous rendre à être à l’heure à notre rendez-vous. Nous partons donc pour une heure de route entre Tulum et Playa del Carmen. 
+Ce matin nous nous levons vers 5h30 pour être à l’heure à notre rendez-vous. Nous partons donc pour une heure de route entre Tulum et Playa del Carmen. 
 
-Nous avons réservons une excursion mêlant du snorkeling pour voire le récif de corail et les animaux marins et un parcours dans la jungle pour visiter quatre cenotes. 
+Nous avons réservé une excursion mêlant du snorkeling pour voir le récif de corail et les animaux marins et un parcours dans la jungle pour visiter quatre cenotes. 
 
-Cêtre activité devait avoir lieu jeudi et a été annulée à cause de l’trop mauvaise météo en mer. 
+Cette activité devait avoir lieu jeudi et a été annulée à cause de l’trop mauvaise météo en mer. 
 
 ![Images 1](/images/mexique/2020/02/16/1.JPG)
 
 Le truc rigolo c’est qu’une fois montés dans le minibus nous apprenons qu’il va faire un parcours pour récupérer d’autres touristes et que notre destination finale est ... les ruines de Tulum. Ce lieu est situé à moins de quatre kilomètres de notre hôtel ... Dommage pour la route ...
 
-Après presque une heure et demi de minibus, et de dos d’ânes, une grande spécialité Mexicaine, nous arrivons sur la plage des ruines de Tulum pour monter dans notre embarcation. 
+Après presque une heure et demi de minibus et de dos d’ânes, une grande spécialité Mexicaine, nous arrivons sur la plage des ruines de Tulum pour monter dans notre embarcation. 
 
 ![Images 2](/images/mexique/2020/02/16/2.JPG)
 
