@@ -21,7 +21,7 @@ Après presque une heure et demi de minibus et de dos d’ânes, une grande spé
 
 Nous nous équipons de palmes, masque et tuba pendant que le bateau se rapproche des ruines de Tulum. 
 
-Sur la photo on voit, au loin, le temple principal du site. Si vous avez de très bons yeux vous pourrez voir eux ouvertures dans ce bâtiment. Les Maya allumaients ut des feux derrière ces ouvertures pour guider les bateaux amis à très les bancs de sables du récif de corail. Il n’y a en effet que deux passages possibles pour accéder à Tulum par la mer. 
+Sur la photo on voit, au loin, le temple principal du site. Si vous avez de très bons yeux vous pourrez voir deux ouvertures dans ce bâtiment. Les Maya allumaient des feux derrière ces ouvertures pour guider les bateaux amis à traverser les bancs de sables du récif de corail. Il n’y a en effet que deux passages possibles pour accéder à Tulum par la mer. 
 
 Les Espagnols n’ont jamais pu atteindre Tulum par la mer lorsqu’ils sont venus de la Jamaïque. Ils l’ont atteint environ 100 ans plus tard, en passant par l’intérieur des terres. 
 
@@ -63,4 +63,4 @@ Cette espèce s’appelle « Ceiba pentandra ». C’est l’arbre national du G
 
 Nous finissons notre visite de cenote par une caverne fermée. Elle est déjà bien colonisée par les racines. Ces cavernes souterraines composent le sous-sol de toute la péninsule du Yucatán. 
 
-Demain nous nous levons tôt également, un peu moins que ce matin quand même, et nous allons visiter la célèbre réserve de « Sin Kan’an ». :-)
+Demain nous nous levons tôt également, un peu moins que ce matin quand même, et nous allons visiter la célèbre réserve de « Sian Kan’an ». :-)
