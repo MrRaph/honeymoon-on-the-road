@@ -19,7 +19,7 @@ Après une petite marche dans la jungle, nous arrivons à une plage sur une des 
 
 Bon, on ne va pas se mentir, on n’en menait pas large. Mais nous sommes montés, attirés par le spectacle majestueux  qui nous attendait en haut. 
 
-Si vous vous demandez à quoi à ressemblait l’ascension de cette tour, voici une vidéo en accéléré ! Pour la descente, pas de vidéo, nous avions vraiment besoin de nos deux mains pour ça !
+Si vous vous demandez à quoi ressemblait l’ascension de cette tour, voici une vidéo en accéléré ! Pour la descente, pas de vidéo, nous avions vraiment besoin de nos deux mains pour ça !
 
 {{< youtube RQPIa1yLW6E >}}
 
