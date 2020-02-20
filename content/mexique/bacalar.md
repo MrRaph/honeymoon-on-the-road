@@ -1,5 +1,5 @@
 ---
-date: 2020-02-19T07:40:54-07:00
+date: 2020-02-18T07:40:54-07:00
 title: "Bacalar"
 description: "La lagune aux sept couleurs"
 featured_image: '/images/mexique/2020/02/18/1.JPG'
