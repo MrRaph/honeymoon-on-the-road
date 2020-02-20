@@ -1,5 +1,5 @@
 ---
-date: 2020-02-20T06:32:06-07:00
+date: 2020-02-19T06:32:06-07:00
 title: "Uxmal"
 description: "Direction la cité Trois-fois-construite"
 featured_image: '/images/mexique/2020/02/19/1.JPG'
