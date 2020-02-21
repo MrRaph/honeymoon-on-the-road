@@ -41,7 +41,7 @@ A l’arrivée la découverte de chaque cenote est une petite part d’excitatio
 
 ![Images 5](/images/mexique/2020/02/20/5.JPG)
 
-Il s’agit du cenote Dzombakal un cenote "grotte" où l’eau n’est nullement polluée par les déchets végétaux alentours. L’eau y est donc parfaitement cristalline d’un bleu variant de l’azur au turquoise. Dans ce type de cenotes comme dans certains autres les plongeurs pratique de la plongée ~~claustrophobe~~ dans des grottes (ma chérie était fascinée).
+Il s’agit du cenote Dzombakal un cenote "grotte" où l’eau n’est nullement polluée par les déchets végétaux alentours. L’eau y est donc parfaitement cristalline d’un bleu variant de l’azur au turquoise. Dans ce type de cenotes comme dans certains autres les plongeurs pratiquent de la plongée ~~claustrophobe~~ dans des grottes (ma chérie était fascinée).
 
 
 ![Images 6](/images/mexique/2020/02/20/6.JPG)
