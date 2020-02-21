@@ -17,7 +17,7 @@ Cette pyramide est la plus connue du site, il s’agit de la pyramide du Devin. 
 
 De l’autre coté de la pyramide, un second escalier. Ce dernier est orné sur ses côtés de masques représentant K'inich Ajaw, le dieu du soleil. 
 
-Les mayas utilisaient deux calendriers différents, l’un solaire - « Gaab » - comptant 365 jours (dont 5 néfastes), celui-ci est plus précis que le nôtre. Ils possédaient également un calendrier de 260 jours - «Solken» - utilisé pour comprendre les meilleurs jours pour se marier, faire la guerre, ...  Ces deux calendriers commencent le même jour, ils se rejoignent ensuite au bout de 52 ans solaires (18 980 jours). C’est un cycle pour les Mayas. La fin d’un cycle signifie le renouveau. Chez les Mayas, les fins de cycles s’accompagnaient de rituels de purification afin de repartir sur de nouvelles bases.
+Les mayas utilisaient deux calendriers différents, l’un solaire - « Gaab » - comptant 365 jours (dont 5 néfastes), celui-ci est pratiquement aussi précis que le nôtre, la marge d'erreur n'est que de 19 minutes. Ils possédaient également un calendrier de 260 jours - «Solken» - utilisé pour comprendre les meilleurs jours pour se marier, faire la guerre, ...  Ces deux calendriers commencent le même jour, ils se rejoignent ensuite au bout de 52 ans solaires (18 980 jours). C’est un cycle pour les Mayas. La fin d’un cycle signifie le renouveau. Chez les Mayas, les fins de cycles s’accompagnaient de rituels de purification afin de repartir sur de nouvelles bases.
 
 ![Images 3](/images/mexique/2020/02/20/3.JPG)
 
