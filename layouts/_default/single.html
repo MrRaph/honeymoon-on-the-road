@@ -19,7 +19,7 @@
       </h1>
       {{ with .Params.description  }}
           <h2 class="f3 athelas mb1">
-            {{ . }}
+            <em>{{ . }}</em>
           </h2>
         {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
@@ -31,6 +31,16 @@
     <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
         {{- .Content -}}
       {{- partial "tags.html" . -}}
+      <div>
+      <p>Articles liés</p>
+      {{ with .PrevInSection }}
+          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+        {{ with .NextInSection }}
+          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+      </div>
+      
       <div class="mt6">
         {{ template "_internal/disqus.html" . }}
       </div>
@@ -38,12 +48,6 @@
 
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
-      {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
     </aside>
 
   </article>
