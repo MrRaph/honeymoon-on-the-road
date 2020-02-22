@@ -34,10 +34,10 @@
       <div>
       <center><h3>Articles liés</h3><center>
       {{ with .PrevInSection }}
-          <div style="float: left;"><a class="previous" href="{{.Permalink}}"> << {{.Title}}</a></div>
+          <div style="float: left;"><h5><a class="previous" href="{{.Permalink}}"> << {{.Title}}</a></h5></div>
         {{ end }}
         {{ with .NextInSection }}
-          <div style="float: right;"><a class="next" href="{{.Permalink}}"> {{.Title}} >></a></div>
+          <div style="float: right;"><h5><a class="next" href="{{.Permalink}}"> {{.Title}} >></a></h5></div>
           <div style="clear: both;">&nbsp;</div>
         {{ end }}
       </div>
