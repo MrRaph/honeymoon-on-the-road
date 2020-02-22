@@ -32,12 +32,13 @@
         {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div>
-      <p>Articles liés</p>
+      <h3>Articles liés</h3>
       {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+          <div style="float: left;"><a class="previous" href="{{.Permalink}}"> {{.Title}}</a></div>
         {{ end }}
         {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+          <div style="float: left;"><a class="next" href="{{.Permalink}}"> {{.Title}}</a></div>
+          <div style="clear: both;">&nbsp;</div>
         {{ end }}
       </div>
       
