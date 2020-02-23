@@ -62,6 +62,9 @@ Une autre particularité de l’architecture Maya se retrouve dans la pyramide K
 
 (Quand on aura une meilleure connexion à Internet on postera une vidéo faite à Uxmal ;-) )
 
+[Edit] La voici !
+{{< youtube wDUsh9jQnC8 >}}
+
 ![Images 5](/images/mexique/2020/02/21/5.JPG)
 
 Le nom Chichén vient du Maya « Chi » qui signifie « bouche », « Chén » qui signifie « puits », sans doute en relation avec les cinq cenotes présents sur les 300 hectares du site. Itzá signifie « sorcier de l’eau » en Maya et est le nom du groupe constituant la classe dirigeante de la cité. 
