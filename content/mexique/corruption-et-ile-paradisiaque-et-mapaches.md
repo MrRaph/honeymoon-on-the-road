@@ -2,7 +2,7 @@
 date: 2020-02-24T23:41:21-07:00
 title: "Corruption, île paradisiaque et mapaches"
 description: "De la déception pour la fin du voyage ..."
-featured_image: '/images/mexique/2020/02/24/1.JPG'
+featured_image: '/images/mexique/2020/02/24/3.JPG'
 ---
 
 Ce matin nous nous levons tranquillement après une nuit compliquée. Ma chérie a été malade cette nuit donc elle a été assez courte. 
