@@ -1,9 +1,5 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy mid-gray">
-    {{ .Content }}
-  </article>
-
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <!-- <div class="pa3 pa4-ns w-100 w-70-ns center">
       {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
 
       <h1 class="flex-none">
@@ -19,11 +15,16 @@
         {{ end }}
       </section>
 
-      </div>
+      </div> -->
 
     <div class="pa3 pa4-ns w-100 w-70-ns center">
-      <h1 class="flex-none">
-        Carte
+      <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy mid-gray">
+        {{ .Content }}
+      </article>
+      
+      <!-- <h1 class="flex-none"> -->
+      <h1 class="flex-none f1 fw1 athelas mt1 lh-title">
+        Tout partout où nous sommes allés
       </h1>
 
       <section class="w-100">
@@ -44,7 +45,8 @@
     </div>
 
   <div class="pa3 pa4-ns w-100 w-70-ns center">
-    <h1 class="flex-none">
+    <!-- <h1 class="flex-none"> -->
+    <h1 class="flex-none f1 fw1 athelas mt1 lh-title">
       Voyages
     </h1>
     {{ range sort .Site.Sections ".Date" "desc" }}

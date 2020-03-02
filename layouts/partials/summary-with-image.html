@@ -5,10 +5,17 @@
       {{ if .Params.featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $featured_image := (trim $featured_image "/") | absURL }}
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns" style="text-align: center;">
           <a href="{{.URL}}" class="db grow">
             <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
           </a>
+          <div style="padding-top: 15px;">
+            <h2 class="f3 fw1 athelas mt0 lh-title">
+              <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+                {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+              </time>
+            </h2>
+          </div>
         </div>
       {{ end }}
       <div class="blah w-100{{ if .Params.featured_image }} w-60-ns pl3-ns{{ end }}">
@@ -17,12 +24,15 @@
             {{ .Title }}
             </a>
         </h1>
+        <h5 class="f3 fw1 athelas mt0 lh-title">
+          {{ with .Params.description  }}
+              <em class="color-inherit dim link">{{ . }}</em>
+          {{ end }}
+        </h5>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           {{ .Summary }}
         </div>
           <a href="{{.URL}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{$.Param "read_more_copy" | default "lire la suite" }}</a>
-        {{/* TODO: add author
-        <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
       </div>
     </div>
   </div>
